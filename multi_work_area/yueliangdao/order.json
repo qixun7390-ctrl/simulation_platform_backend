@@ -1,0 +1,4073 @@
+[
+    {
+        "device_id": "1",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 280,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:04:40"
+    },
+    {
+        "device_id": "2",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            146,
+            145
+        ],
+        "o_relative_time": 312,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:05:12"
+    },
+    {
+        "device_id": "3",
+        "available_pickup_stop_ids": [
+            43
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 525,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:08:45"
+    },
+    {
+        "device_id": "4",
+        "available_pickup_stop_ids": [
+            43
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 943,
+        "passengers": 2,
+        "o_time": "2025-12-01 12:15:43"
+    },
+    {
+        "device_id": "5",
+        "available_pickup_stop_ids": [
+            71
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 1010,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:16:50"
+    },
+    {
+        "device_id": "6",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            106
+        ],
+        "o_relative_time": 1076,
+        "passengers": 2,
+        "o_time": "2025-12-01 12:17:56"
+    },
+    {
+        "device_id": "7",
+        "available_pickup_stop_ids": [
+            67
+        ],
+        "available_dropoff_stop_ids": [
+            52
+        ],
+        "o_relative_time": 1490,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:24:50"
+    },
+    {
+        "device_id": "8",
+        "available_pickup_stop_ids": [
+            46
+        ],
+        "available_dropoff_stop_ids": [
+            15,
+            14
+        ],
+        "o_relative_time": 1580,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:26:20"
+    },
+    {
+        "device_id": "9",
+        "available_pickup_stop_ids": [
+            121
+        ],
+        "available_dropoff_stop_ids": [
+            96
+        ],
+        "o_relative_time": 1978,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:32:58"
+    },
+    {
+        "device_id": "10",
+        "available_pickup_stop_ids": [
+            54
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 2113,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:35:13"
+    },
+    {
+        "device_id": "11",
+        "available_pickup_stop_ids": [
+            78
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 2436,
+        "passengers": 3,
+        "o_time": "2025-12-01 12:40:36"
+    },
+    {
+        "device_id": "12",
+        "available_pickup_stop_ids": [
+            67
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 2555,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:42:35"
+    },
+    {
+        "device_id": "13",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 2810,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:46:50"
+    },
+    {
+        "device_id": "14",
+        "available_pickup_stop_ids": [
+            100
+        ],
+        "available_dropoff_stop_ids": [
+            22,
+            23
+        ],
+        "o_relative_time": 2985,
+        "passengers": 2,
+        "o_time": "2025-12-01 12:49:45"
+    },
+    {
+        "device_id": "15",
+        "available_pickup_stop_ids": [
+            78
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 3022,
+        "passengers": 3,
+        "o_time": "2025-12-01 12:50:22"
+    },
+    {
+        "device_id": "16",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 3090,
+        "passengers": 2,
+        "o_time": "2025-12-01 12:51:30"
+    },
+    {
+        "device_id": "17",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 3119,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:51:59"
+    },
+    {
+        "device_id": "18",
+        "available_pickup_stop_ids": [
+            140
+        ],
+        "available_dropoff_stop_ids": [
+            50
+        ],
+        "o_relative_time": 3126,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:52:06"
+    },
+    {
+        "device_id": "19",
+        "available_pickup_stop_ids": [
+            55
+        ],
+        "available_dropoff_stop_ids": [
+            159,
+            160
+        ],
+        "o_relative_time": 3345,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:55:45"
+    },
+    {
+        "device_id": "20",
+        "available_pickup_stop_ids": [
+            67
+        ],
+        "available_dropoff_stop_ids": [
+            18
+        ],
+        "o_relative_time": 3464,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:57:44"
+    },
+    {
+        "device_id": "21",
+        "available_pickup_stop_ids": [
+            46
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 3526,
+        "passengers": 1,
+        "o_time": "2025-12-01 12:58:46"
+    },
+    {
+        "device_id": "22",
+        "available_pickup_stop_ids": [
+            57
+        ],
+        "available_dropoff_stop_ids": [
+            20,
+            21
+        ],
+        "o_relative_time": 3692,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:01:32"
+    },
+    {
+        "device_id": "23",
+        "available_pickup_stop_ids": [
+            78
+        ],
+        "available_dropoff_stop_ids": [
+            159,
+            160
+        ],
+        "o_relative_time": 3859,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:04:19"
+    },
+    {
+        "device_id": "24",
+        "available_pickup_stop_ids": [
+            125
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 3906,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:05:06"
+    },
+    {
+        "device_id": "25",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 4093,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:08:13"
+    },
+    {
+        "device_id": "26",
+        "available_pickup_stop_ids": [
+            162
+        ],
+        "available_dropoff_stop_ids": [
+            132,
+            131
+        ],
+        "o_relative_time": 4299,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:11:39"
+    },
+    {
+        "device_id": "27",
+        "available_pickup_stop_ids": [
+            43
+        ],
+        "available_dropoff_stop_ids": [
+            12,
+            13
+        ],
+        "o_relative_time": 4472,
+        "passengers": 5,
+        "o_time": "2025-12-01 13:14:32"
+    },
+    {
+        "device_id": "28",
+        "available_pickup_stop_ids": [
+            20
+        ],
+        "available_dropoff_stop_ids": [
+            17
+        ],
+        "o_relative_time": 4508,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:15:08"
+    },
+    {
+        "device_id": "29",
+        "available_pickup_stop_ids": [
+            44
+        ],
+        "available_dropoff_stop_ids": [
+            65,
+            64
+        ],
+        "o_relative_time": 4610,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:16:50"
+    },
+    {
+        "device_id": "30",
+        "available_pickup_stop_ids": [
+            78
+        ],
+        "available_dropoff_stop_ids": [
+            159,
+            160
+        ],
+        "o_relative_time": 4636,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:17:16"
+    },
+    {
+        "device_id": "31",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            127
+        ],
+        "o_relative_time": 4726,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:18:46"
+    },
+    {
+        "device_id": "32",
+        "available_pickup_stop_ids": [
+            83
+        ],
+        "available_dropoff_stop_ids": [
+            132,
+            131
+        ],
+        "o_relative_time": 4804,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:20:04"
+    },
+    {
+        "device_id": "33",
+        "available_pickup_stop_ids": [
+            121
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 4852,
+        "passengers": 3,
+        "o_time": "2025-12-01 13:20:52"
+    },
+    {
+        "device_id": "34",
+        "available_pickup_stop_ids": [
+            28
+        ],
+        "available_dropoff_stop_ids": [
+            17
+        ],
+        "o_relative_time": 4998,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:23:18"
+    },
+    {
+        "device_id": "35",
+        "available_pickup_stop_ids": [
+            78
+        ],
+        "available_dropoff_stop_ids": [
+            159,
+            160
+        ],
+        "o_relative_time": 5066,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:24:26"
+    },
+    {
+        "device_id": "36",
+        "available_pickup_stop_ids": [
+            128
+        ],
+        "available_dropoff_stop_ids": [
+            44
+        ],
+        "o_relative_time": 5229,
+        "passengers": 3,
+        "o_time": "2025-12-01 13:27:09"
+    },
+    {
+        "device_id": "37",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            123,
+            124
+        ],
+        "o_relative_time": 5251,
+        "passengers": 3,
+        "o_time": "2025-12-01 13:27:31"
+    },
+    {
+        "device_id": "38",
+        "available_pickup_stop_ids": [
+            28
+        ],
+        "available_dropoff_stop_ids": [
+            17
+        ],
+        "o_relative_time": 5299,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:28:19"
+    },
+    {
+        "device_id": "39",
+        "available_pickup_stop_ids": [
+            71
+        ],
+        "available_dropoff_stop_ids": [
+            106
+        ],
+        "o_relative_time": 5537,
+        "passengers": 3,
+        "o_time": "2025-12-01 13:32:17"
+    },
+    {
+        "device_id": "40",
+        "available_pickup_stop_ids": [
+            150
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 5629,
+        "passengers": 3,
+        "o_time": "2025-12-01 13:33:49"
+    },
+    {
+        "device_id": "41",
+        "available_pickup_stop_ids": [
+            151
+        ],
+        "available_dropoff_stop_ids": [
+            16
+        ],
+        "o_relative_time": 5694,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:34:54"
+    },
+    {
+        "device_id": "42",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            64,
+            65
+        ],
+        "o_relative_time": 5783,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:36:23"
+    },
+    {
+        "device_id": "43",
+        "available_pickup_stop_ids": [
+            12
+        ],
+        "available_dropoff_stop_ids": [
+            89,
+            87
+        ],
+        "o_relative_time": 6025,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:40:25"
+    },
+    {
+        "device_id": "44",
+        "available_pickup_stop_ids": [
+            16
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 6112,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:41:52"
+    },
+    {
+        "device_id": "45",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            65,
+            64
+        ],
+        "o_relative_time": 6295,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:44:55"
+    },
+    {
+        "device_id": "46",
+        "available_pickup_stop_ids": [
+            16
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 6301,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:45:01"
+    },
+    {
+        "device_id": "47",
+        "available_pickup_stop_ids": [
+            71
+        ],
+        "available_dropoff_stop_ids": [
+            44
+        ],
+        "o_relative_time": 6309,
+        "passengers": 2,
+        "o_time": "2025-12-01 13:45:09"
+    },
+    {
+        "device_id": "48",
+        "available_pickup_stop_ids": [
+            62
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 6422,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:47:02"
+    },
+    {
+        "device_id": "49",
+        "available_pickup_stop_ids": [
+            132
+        ],
+        "available_dropoff_stop_ids": [
+            97,
+            98
+        ],
+        "o_relative_time": 6567,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:49:27"
+    },
+    {
+        "device_id": "50",
+        "available_pickup_stop_ids": [
+            132
+        ],
+        "available_dropoff_stop_ids": [
+            97,
+            98
+        ],
+        "o_relative_time": 6682,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:51:22"
+    },
+    {
+        "device_id": "51",
+        "available_pickup_stop_ids": [
+            122
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 6913,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:55:13"
+    },
+    {
+        "device_id": "52",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            35,
+            36
+        ],
+        "o_relative_time": 6922,
+        "passengers": 2,
+        "o_time": "2025-12-01 13:55:22"
+    },
+    {
+        "device_id": "53",
+        "available_pickup_stop_ids": [
+            167
+        ],
+        "available_dropoff_stop_ids": [
+            18
+        ],
+        "o_relative_time": 6923,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:55:23"
+    },
+    {
+        "device_id": "54",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            20,
+            21
+        ],
+        "o_relative_time": 7147,
+        "passengers": 1,
+        "o_time": "2025-12-01 13:59:07"
+    },
+    {
+        "device_id": "55",
+        "available_pickup_stop_ids": [
+            41
+        ],
+        "available_dropoff_stop_ids": [
+            72
+        ],
+        "o_relative_time": 7285,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:01:25"
+    },
+    {
+        "device_id": "56",
+        "available_pickup_stop_ids": [
+            106
+        ],
+        "available_dropoff_stop_ids": [
+            55,
+            70
+        ],
+        "o_relative_time": 7291,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:01:31"
+    },
+    {
+        "device_id": "57",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 7370,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:02:50"
+    },
+    {
+        "device_id": "58",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            82,
+            83
+        ],
+        "o_relative_time": 7437,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:03:57"
+    },
+    {
+        "device_id": "59",
+        "available_pickup_stop_ids": [
+            138
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 7652,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:07:32"
+    },
+    {
+        "device_id": "60",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            126
+        ],
+        "o_relative_time": 7736,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:08:56"
+    },
+    {
+        "device_id": "61",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            86
+        ],
+        "o_relative_time": 7739,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:08:59"
+    },
+    {
+        "device_id": "62",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            44
+        ],
+        "o_relative_time": 7755,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:09:15"
+    },
+    {
+        "device_id": "63",
+        "available_pickup_stop_ids": [
+            138
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 7848,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:10:48"
+    },
+    {
+        "device_id": "64",
+        "available_pickup_stop_ids": [
+            28
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 7986,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:13:06"
+    },
+    {
+        "device_id": "65",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            86
+        ],
+        "o_relative_time": 8113,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:15:13"
+    },
+    {
+        "device_id": "66",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            146,
+            145
+        ],
+        "o_relative_time": 8130,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:15:30"
+    },
+    {
+        "device_id": "67",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            44
+        ],
+        "o_relative_time": 8177,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:16:17"
+    },
+    {
+        "device_id": "68",
+        "available_pickup_stop_ids": [
+            35
+        ],
+        "available_dropoff_stop_ids": [
+            28,
+            156
+        ],
+        "o_relative_time": 8454,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:20:54"
+    },
+    {
+        "device_id": "69",
+        "available_pickup_stop_ids": [
+            139
+        ],
+        "available_dropoff_stop_ids": [
+            155
+        ],
+        "o_relative_time": 8642,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:24:02"
+    },
+    {
+        "device_id": "70",
+        "available_pickup_stop_ids": [
+            121
+        ],
+        "available_dropoff_stop_ids": [
+            22,
+            23
+        ],
+        "o_relative_time": 9090,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:31:30"
+    },
+    {
+        "device_id": "71",
+        "available_pickup_stop_ids": [
+            159
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 9094,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:31:34"
+    },
+    {
+        "device_id": "72",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 9407,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:36:47"
+    },
+    {
+        "device_id": "73",
+        "available_pickup_stop_ids": [
+            52
+        ],
+        "available_dropoff_stop_ids": [
+            55,
+            70
+        ],
+        "o_relative_time": 9448,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:37:28"
+    },
+    {
+        "device_id": "74",
+        "available_pickup_stop_ids": [
+            102
+        ],
+        "available_dropoff_stop_ids": [
+            49
+        ],
+        "o_relative_time": 9629,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:40:29"
+    },
+    {
+        "device_id": "75",
+        "available_pickup_stop_ids": [
+            88
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 9688,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:41:28"
+    },
+    {
+        "device_id": "76",
+        "available_pickup_stop_ids": [
+            16
+        ],
+        "available_dropoff_stop_ids": [
+            82,
+            83
+        ],
+        "o_relative_time": 9806,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:43:26"
+    },
+    {
+        "device_id": "77",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            37
+        ],
+        "o_relative_time": 9873,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:44:33"
+    },
+    {
+        "device_id": "78",
+        "available_pickup_stop_ids": [
+            114
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 9899,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:44:59"
+    },
+    {
+        "device_id": "79",
+        "available_pickup_stop_ids": [
+            40
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 10202,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:50:02"
+    },
+    {
+        "device_id": "80",
+        "available_pickup_stop_ids": [
+            142
+        ],
+        "available_dropoff_stop_ids": [
+            46,
+            47
+        ],
+        "o_relative_time": 10318,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:51:58"
+    },
+    {
+        "device_id": "81",
+        "available_pickup_stop_ids": [
+            44
+        ],
+        "available_dropoff_stop_ids": [
+            125
+        ],
+        "o_relative_time": 10413,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:53:33"
+    },
+    {
+        "device_id": "82",
+        "available_pickup_stop_ids": [
+            51
+        ],
+        "available_dropoff_stop_ids": [
+            102
+        ],
+        "o_relative_time": 10451,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:54:11"
+    },
+    {
+        "device_id": "83",
+        "available_pickup_stop_ids": [
+            31
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 10469,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:54:29"
+    },
+    {
+        "device_id": "84",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 10496,
+        "passengers": 2,
+        "o_time": "2025-12-01 14:54:56"
+    },
+    {
+        "device_id": "85",
+        "available_pickup_stop_ids": [
+            142
+        ],
+        "available_dropoff_stop_ids": [
+            127
+        ],
+        "o_relative_time": 10669,
+        "passengers": 1,
+        "o_time": "2025-12-01 14:57:49"
+    },
+    {
+        "device_id": "86",
+        "available_pickup_stop_ids": [
+            150
+        ],
+        "available_dropoff_stop_ids": [
+            13,
+            12
+        ],
+        "o_relative_time": 10819,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:00:19"
+    },
+    {
+        "device_id": "87",
+        "available_pickup_stop_ids": [
+            159
+        ],
+        "available_dropoff_stop_ids": [
+            165
+        ],
+        "o_relative_time": 10854,
+        "passengers": 2,
+        "o_time": "2025-12-01 15:00:54"
+    },
+    {
+        "device_id": "88",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            122,
+            121
+        ],
+        "o_relative_time": 11365,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:09:25"
+    },
+    {
+        "device_id": "89",
+        "available_pickup_stop_ids": [
+            116
+        ],
+        "available_dropoff_stop_ids": [
+            101
+        ],
+        "o_relative_time": 11425,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:10:25"
+    },
+    {
+        "device_id": "90",
+        "available_pickup_stop_ids": [
+            131
+        ],
+        "available_dropoff_stop_ids": [
+            82,
+            83
+        ],
+        "o_relative_time": 11482,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:11:22"
+    },
+    {
+        "device_id": "91",
+        "available_pickup_stop_ids": [
+            51
+        ],
+        "available_dropoff_stop_ids": [
+            102
+        ],
+        "o_relative_time": 11538,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:12:18"
+    },
+    {
+        "device_id": "92",
+        "available_pickup_stop_ids": [
+            150
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 11691,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:14:51"
+    },
+    {
+        "device_id": "93",
+        "available_pickup_stop_ids": [
+            128
+        ],
+        "available_dropoff_stop_ids": [
+            5
+        ],
+        "o_relative_time": 11719,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:15:19"
+    },
+    {
+        "device_id": "94",
+        "available_pickup_stop_ids": [
+            101
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 11773,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:16:13"
+    },
+    {
+        "device_id": "95",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            134,
+            133
+        ],
+        "o_relative_time": 11947,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:19:07"
+    },
+    {
+        "device_id": "96",
+        "available_pickup_stop_ids": [
+            62
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 11958,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:19:18"
+    },
+    {
+        "device_id": "97",
+        "available_pickup_stop_ids": [
+            106
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 12218,
+        "passengers": 3,
+        "o_time": "2025-12-01 15:23:38"
+    },
+    {
+        "device_id": "98",
+        "available_pickup_stop_ids": [
+            150
+        ],
+        "available_dropoff_stop_ids": [
+            13,
+            12
+        ],
+        "o_relative_time": 12225,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:23:45"
+    },
+    {
+        "device_id": "99",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            145,
+            146
+        ],
+        "o_relative_time": 12247,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:24:07"
+    },
+    {
+        "device_id": "100",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            168,
+            167
+        ],
+        "o_relative_time": 12289,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:24:49"
+    },
+    {
+        "device_id": "101",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            131,
+            132
+        ],
+        "o_relative_time": 12291,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:24:51"
+    },
+    {
+        "device_id": "102",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            16
+        ],
+        "o_relative_time": 12300,
+        "passengers": 2,
+        "o_time": "2025-12-01 15:25:00"
+    },
+    {
+        "device_id": "103",
+        "available_pickup_stop_ids": [
+            17
+        ],
+        "available_dropoff_stop_ids": [
+            134,
+            133
+        ],
+        "o_relative_time": 12371,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:26:11"
+    },
+    {
+        "device_id": "104",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            168,
+            167
+        ],
+        "o_relative_time": 12446,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:27:26"
+    },
+    {
+        "device_id": "105",
+        "available_pickup_stop_ids": [
+            12
+        ],
+        "available_dropoff_stop_ids": [
+            144
+        ],
+        "o_relative_time": 12505,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:28:25"
+    },
+    {
+        "device_id": "106",
+        "available_pickup_stop_ids": [
+            44
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 12630,
+        "passengers": 2,
+        "o_time": "2025-12-01 15:30:30"
+    },
+    {
+        "device_id": "107",
+        "available_pickup_stop_ids": [
+            83
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 12822,
+        "passengers": 2,
+        "o_time": "2025-12-01 15:33:42"
+    },
+    {
+        "device_id": "108",
+        "available_pickup_stop_ids": [
+            28
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 13039,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:37:19"
+    },
+    {
+        "device_id": "109",
+        "available_pickup_stop_ids": [
+            150
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 13089,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:38:09"
+    },
+    {
+        "device_id": "110",
+        "available_pickup_stop_ids": [
+            40
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 13549,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:45:49"
+    },
+    {
+        "device_id": "111",
+        "available_pickup_stop_ids": [
+            108
+        ],
+        "available_dropoff_stop_ids": [
+            12,
+            13
+        ],
+        "o_relative_time": 13651,
+        "passengers": 2,
+        "o_time": "2025-12-01 15:47:31"
+    },
+    {
+        "device_id": "112",
+        "available_pickup_stop_ids": [
+            132
+        ],
+        "available_dropoff_stop_ids": [
+            35,
+            36
+        ],
+        "o_relative_time": 13773,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:49:33"
+    },
+    {
+        "device_id": "113",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            138
+        ],
+        "o_relative_time": 13868,
+        "passengers": 2,
+        "o_time": "2025-12-01 15:51:08"
+    },
+    {
+        "device_id": "114",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 14093,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:54:53"
+    },
+    {
+        "device_id": "115",
+        "available_pickup_stop_ids": [
+            17
+        ],
+        "available_dropoff_stop_ids": [
+            51
+        ],
+        "o_relative_time": 14354,
+        "passengers": 1,
+        "o_time": "2025-12-01 15:59:14"
+    },
+    {
+        "device_id": "116",
+        "available_pickup_stop_ids": [
+            82
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 14414,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:00:14"
+    },
+    {
+        "device_id": "117",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            52
+        ],
+        "o_relative_time": 14472,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:01:12"
+    },
+    {
+        "device_id": "118",
+        "available_pickup_stop_ids": [
+            20
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 14483,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:01:23"
+    },
+    {
+        "device_id": "119",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            127
+        ],
+        "o_relative_time": 14600,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:03:20"
+    },
+    {
+        "device_id": "120",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            22,
+            23
+        ],
+        "o_relative_time": 14684,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:04:44"
+    },
+    {
+        "device_id": "121",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            160,
+            159
+        ],
+        "o_relative_time": 14794,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:06:34"
+    },
+    {
+        "device_id": "122",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            145,
+            146
+        ],
+        "o_relative_time": 14915,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:08:35"
+    },
+    {
+        "device_id": "123",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            49
+        ],
+        "o_relative_time": 15232,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:13:52"
+    },
+    {
+        "device_id": "124",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 15385,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:16:25"
+    },
+    {
+        "device_id": "125",
+        "available_pickup_stop_ids": [
+            28
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 15386,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:16:26"
+    },
+    {
+        "device_id": "126",
+        "available_pickup_stop_ids": [
+            82
+        ],
+        "available_dropoff_stop_ids": [
+            133,
+            134
+        ],
+        "o_relative_time": 15431,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:17:11"
+    },
+    {
+        "device_id": "127",
+        "available_pickup_stop_ids": [
+            16
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 15586,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:19:46"
+    },
+    {
+        "device_id": "128",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 15641,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:20:41"
+    },
+    {
+        "device_id": "129",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 15753,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:22:33"
+    },
+    {
+        "device_id": "130",
+        "available_pickup_stop_ids": [
+            140
+        ],
+        "available_dropoff_stop_ids": [
+            52
+        ],
+        "o_relative_time": 16069,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:27:49"
+    },
+    {
+        "device_id": "131",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            102
+        ],
+        "o_relative_time": 16201,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:30:01"
+    },
+    {
+        "device_id": "132",
+        "available_pickup_stop_ids": [
+            31
+        ],
+        "available_dropoff_stop_ids": [
+            101
+        ],
+        "o_relative_time": 16462,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:34:22"
+    },
+    {
+        "device_id": "133",
+        "available_pickup_stop_ids": [
+            156
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 16709,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:38:29"
+    },
+    {
+        "device_id": "134",
+        "available_pickup_stop_ids": [
+            58
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 16719,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:38:39"
+    },
+    {
+        "device_id": "135",
+        "available_pickup_stop_ids": [
+            155
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 16778,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:39:38"
+    },
+    {
+        "device_id": "136",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            103
+        ],
+        "o_relative_time": 16830,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:40:30"
+    },
+    {
+        "device_id": "137",
+        "available_pickup_stop_ids": [
+            40
+        ],
+        "available_dropoff_stop_ids": [
+            107,
+            108
+        ],
+        "o_relative_time": 16965,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:42:45"
+    },
+    {
+        "device_id": "138",
+        "available_pickup_stop_ids": [
+            105
+        ],
+        "available_dropoff_stop_ids": [
+            113
+        ],
+        "o_relative_time": 17086,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:44:46"
+    },
+    {
+        "device_id": "139",
+        "available_pickup_stop_ids": [
+            105
+        ],
+        "available_dropoff_stop_ids": [
+            112
+        ],
+        "o_relative_time": 17152,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:45:52"
+    },
+    {
+        "device_id": "140",
+        "available_pickup_stop_ids": [
+            21
+        ],
+        "available_dropoff_stop_ids": [
+            17
+        ],
+        "o_relative_time": 17260,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:47:40"
+    },
+    {
+        "device_id": "141",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 17460,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:51:00"
+    },
+    {
+        "device_id": "142",
+        "available_pickup_stop_ids": [
+            79
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 17503,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:51:43"
+    },
+    {
+        "device_id": "143",
+        "available_pickup_stop_ids": [
+            156
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 17659,
+        "passengers": 2,
+        "o_time": "2025-12-01 16:54:19"
+    },
+    {
+        "device_id": "144",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 17870,
+        "passengers": 1,
+        "o_time": "2025-12-01 16:57:50"
+    },
+    {
+        "device_id": "145",
+        "available_pickup_stop_ids": [
+            96
+        ],
+        "available_dropoff_stop_ids": [
+            12,
+            13
+        ],
+        "o_relative_time": 18068,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:01:08"
+    },
+    {
+        "device_id": "146",
+        "available_pickup_stop_ids": [
+            86
+        ],
+        "available_dropoff_stop_ids": [
+            72
+        ],
+        "o_relative_time": 18249,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:04:09"
+    },
+    {
+        "device_id": "147",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            77
+        ],
+        "o_relative_time": 18387,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:06:27"
+    },
+    {
+        "device_id": "148",
+        "available_pickup_stop_ids": [
+            154
+        ],
+        "available_dropoff_stop_ids": [
+            159,
+            160
+        ],
+        "o_relative_time": 18484,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:08:04"
+    },
+    {
+        "device_id": "149",
+        "available_pickup_stop_ids": [
+            154
+        ],
+        "available_dropoff_stop_ids": [
+            159,
+            160
+        ],
+        "o_relative_time": 18503,
+        "passengers": 3,
+        "o_time": "2025-12-01 17:08:23"
+    },
+    {
+        "device_id": "150",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            48
+        ],
+        "o_relative_time": 18531,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:08:51"
+    },
+    {
+        "device_id": "151",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            16
+        ],
+        "o_relative_time": 18572,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:09:32"
+    },
+    {
+        "device_id": "152",
+        "available_pickup_stop_ids": [
+            140
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 18576,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:09:36"
+    },
+    {
+        "device_id": "153",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            37
+        ],
+        "o_relative_time": 18619,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:10:19"
+    },
+    {
+        "device_id": "154",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            40
+        ],
+        "o_relative_time": 18620,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:10:20"
+    },
+    {
+        "device_id": "155",
+        "available_pickup_stop_ids": [
+            163
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 18634,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:10:34"
+    },
+    {
+        "device_id": "156",
+        "available_pickup_stop_ids": [
+            52
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 18685,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:11:25"
+    },
+    {
+        "device_id": "157",
+        "available_pickup_stop_ids": [
+            35
+        ],
+        "available_dropoff_stop_ids": [
+            13,
+            12
+        ],
+        "o_relative_time": 18697,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:11:37"
+    },
+    {
+        "device_id": "158",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 18733,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:12:13"
+    },
+    {
+        "device_id": "159",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            84,
+            85
+        ],
+        "o_relative_time": 18741,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:12:21"
+    },
+    {
+        "device_id": "160",
+        "available_pickup_stop_ids": [
+            88
+        ],
+        "available_dropoff_stop_ids": [
+            13,
+            12
+        ],
+        "o_relative_time": 18754,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:12:34"
+    },
+    {
+        "device_id": "161",
+        "available_pickup_stop_ids": [
+            102
+        ],
+        "available_dropoff_stop_ids": [
+            51
+        ],
+        "o_relative_time": 18889,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:14:49"
+    },
+    {
+        "device_id": "162",
+        "available_pickup_stop_ids": [
+            19
+        ],
+        "available_dropoff_stop_ids": [
+            89,
+            87
+        ],
+        "o_relative_time": 18937,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:15:37"
+    },
+    {
+        "device_id": "163",
+        "available_pickup_stop_ids": [
+            158
+        ],
+        "available_dropoff_stop_ids": [
+            37
+        ],
+        "o_relative_time": 18994,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:16:34"
+    },
+    {
+        "device_id": "164",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            64,
+            65
+        ],
+        "o_relative_time": 19063,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:17:43"
+    },
+    {
+        "device_id": "165",
+        "available_pickup_stop_ids": [
+            82
+        ],
+        "available_dropoff_stop_ids": [
+            16
+        ],
+        "o_relative_time": 19197,
+        "passengers": 2,
+        "o_time": "2025-12-01 17:19:57"
+    },
+    {
+        "device_id": "166",
+        "available_pickup_stop_ids": [
+            63
+        ],
+        "available_dropoff_stop_ids": [
+            105,
+            109
+        ],
+        "o_relative_time": 19281,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:21:21"
+    },
+    {
+        "device_id": "167",
+        "available_pickup_stop_ids": [
+            65
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 19381,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:23:01"
+    },
+    {
+        "device_id": "168",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 19534,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:25:34"
+    },
+    {
+        "device_id": "169",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            88
+        ],
+        "o_relative_time": 19556,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:25:56"
+    },
+    {
+        "device_id": "170",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            91
+        ],
+        "o_relative_time": 19810,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:30:10"
+    },
+    {
+        "device_id": "171",
+        "available_pickup_stop_ids": [
+            102
+        ],
+        "available_dropoff_stop_ids": [
+            48
+        ],
+        "o_relative_time": 19885,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:31:25"
+    },
+    {
+        "device_id": "172",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            131,
+            132
+        ],
+        "o_relative_time": 19891,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:31:31"
+    },
+    {
+        "device_id": "173",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 19898,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:31:38"
+    },
+    {
+        "device_id": "174",
+        "available_pickup_stop_ids": [
+            144
+        ],
+        "available_dropoff_stop_ids": [
+            103
+        ],
+        "o_relative_time": 19979,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:32:59"
+    },
+    {
+        "device_id": "175",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            52
+        ],
+        "o_relative_time": 20026,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:33:46"
+    },
+    {
+        "device_id": "176",
+        "available_pickup_stop_ids": [
+            63
+        ],
+        "available_dropoff_stop_ids": [
+            105,
+            109
+        ],
+        "o_relative_time": 20028,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:33:48"
+    },
+    {
+        "device_id": "177",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            72
+        ],
+        "o_relative_time": 20073,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:34:33"
+    },
+    {
+        "device_id": "178",
+        "available_pickup_stop_ids": [
+            99
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 20105,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:35:05"
+    },
+    {
+        "device_id": "179",
+        "available_pickup_stop_ids": [
+            144
+        ],
+        "available_dropoff_stop_ids": [
+            103
+        ],
+        "o_relative_time": 20108,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:35:08"
+    },
+    {
+        "device_id": "180",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            49
+        ],
+        "o_relative_time": 20130,
+        "passengers": 2,
+        "o_time": "2025-12-01 17:35:30"
+    },
+    {
+        "device_id": "181",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            134,
+            133
+        ],
+        "o_relative_time": 20133,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:35:33"
+    },
+    {
+        "device_id": "182",
+        "available_pickup_stop_ids": [
+            17
+        ],
+        "available_dropoff_stop_ids": [
+            91
+        ],
+        "o_relative_time": 20138,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:35:38"
+    },
+    {
+        "device_id": "183",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            82,
+            83
+        ],
+        "o_relative_time": 20144,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:35:44"
+    },
+    {
+        "device_id": "184",
+        "available_pickup_stop_ids": [
+            26
+        ],
+        "available_dropoff_stop_ids": [
+            127
+        ],
+        "o_relative_time": 20190,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:36:30"
+    },
+    {
+        "device_id": "185",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 20200,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:36:40"
+    },
+    {
+        "device_id": "186",
+        "available_pickup_stop_ids": [
+            144
+        ],
+        "available_dropoff_stop_ids": [
+            37
+        ],
+        "o_relative_time": 20223,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:37:03"
+    },
+    {
+        "device_id": "187",
+        "available_pickup_stop_ids": [
+            89
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 20237,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:37:17"
+    },
+    {
+        "device_id": "188",
+        "available_pickup_stop_ids": [
+            172
+        ],
+        "available_dropoff_stop_ids": [
+            16
+        ],
+        "o_relative_time": 20413,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:40:13"
+    },
+    {
+        "device_id": "189",
+        "available_pickup_stop_ids": [
+            103
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 20431,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:40:31"
+    },
+    {
+        "device_id": "190",
+        "available_pickup_stop_ids": [
+            21
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 20484,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:41:24"
+    },
+    {
+        "device_id": "191",
+        "available_pickup_stop_ids": [
+            64
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 20546,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:42:26"
+    },
+    {
+        "device_id": "192",
+        "available_pickup_stop_ids": [
+            127
+        ],
+        "available_dropoff_stop_ids": [
+            83,
+            82
+        ],
+        "o_relative_time": 20697,
+        "passengers": 2,
+        "o_time": "2025-12-01 17:44:57"
+    },
+    {
+        "device_id": "193",
+        "available_pickup_stop_ids": [
+            64
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 20730,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:45:30"
+    },
+    {
+        "device_id": "194",
+        "available_pickup_stop_ids": [
+            33
+        ],
+        "available_dropoff_stop_ids": [
+            51
+        ],
+        "o_relative_time": 20800,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:46:40"
+    },
+    {
+        "device_id": "195",
+        "available_pickup_stop_ids": [
+            21
+        ],
+        "available_dropoff_stop_ids": [
+            146,
+            145
+        ],
+        "o_relative_time": 20802,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:46:42"
+    },
+    {
+        "device_id": "196",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            146,
+            145
+        ],
+        "o_relative_time": 20833,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:47:13"
+    },
+    {
+        "device_id": "197",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            125
+        ],
+        "o_relative_time": 20951,
+        "passengers": 2,
+        "o_time": "2025-12-01 17:49:11"
+    },
+    {
+        "device_id": "198",
+        "available_pickup_stop_ids": [
+            155
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 21137,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:52:17"
+    },
+    {
+        "device_id": "199",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 21291,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:54:51"
+    },
+    {
+        "device_id": "200",
+        "available_pickup_stop_ids": [
+            72
+        ],
+        "available_dropoff_stop_ids": [
+            63
+        ],
+        "o_relative_time": 21356,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:55:56"
+    },
+    {
+        "device_id": "201",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            82,
+            83
+        ],
+        "o_relative_time": 21388,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:56:28"
+    },
+    {
+        "device_id": "202",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            65,
+            64
+        ],
+        "o_relative_time": 21503,
+        "passengers": 1,
+        "o_time": "2025-12-01 17:58:23"
+    },
+    {
+        "device_id": "203",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            79,
+            78
+        ],
+        "o_relative_time": 21518,
+        "passengers": 2,
+        "o_time": "2025-12-01 17:58:38"
+    },
+    {
+        "device_id": "204",
+        "available_pickup_stop_ids": [
+            12
+        ],
+        "available_dropoff_stop_ids": [
+            89,
+            87
+        ],
+        "o_relative_time": 21601,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:00:01"
+    },
+    {
+        "device_id": "205",
+        "available_pickup_stop_ids": [
+            35
+        ],
+        "available_dropoff_stop_ids": [
+            163
+        ],
+        "o_relative_time": 21641,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:00:41"
+    },
+    {
+        "device_id": "206",
+        "available_pickup_stop_ids": [
+            17
+        ],
+        "available_dropoff_stop_ids": [
+            91
+        ],
+        "o_relative_time": 21683,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:01:23"
+    },
+    {
+        "device_id": "207",
+        "available_pickup_stop_ids": [
+            35
+        ],
+        "available_dropoff_stop_ids": [
+            163
+        ],
+        "o_relative_time": 21727,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:02:07"
+    },
+    {
+        "device_id": "208",
+        "available_pickup_stop_ids": [
+            44
+        ],
+        "available_dropoff_stop_ids": [
+            125
+        ],
+        "o_relative_time": 21759,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:02:39"
+    },
+    {
+        "device_id": "209",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 21830,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:03:50"
+    },
+    {
+        "device_id": "210",
+        "available_pickup_stop_ids": [
+            31
+        ],
+        "available_dropoff_stop_ids": [
+            44
+        ],
+        "o_relative_time": 21856,
+        "passengers": 4,
+        "o_time": "2025-12-01 18:04:16"
+    },
+    {
+        "device_id": "211",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            65,
+            64
+        ],
+        "o_relative_time": 21864,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:04:24"
+    },
+    {
+        "device_id": "212",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            50
+        ],
+        "o_relative_time": 21876,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:04:36"
+    },
+    {
+        "device_id": "213",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            32,
+            31
+        ],
+        "o_relative_time": 21947,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:05:47"
+    },
+    {
+        "device_id": "214",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            75
+        ],
+        "o_relative_time": 21953,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:05:53"
+    },
+    {
+        "device_id": "215",
+        "available_pickup_stop_ids": [
+            17
+        ],
+        "available_dropoff_stop_ids": [
+            131,
+            132
+        ],
+        "o_relative_time": 21994,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:06:34"
+    },
+    {
+        "device_id": "216",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            148,
+            149
+        ],
+        "o_relative_time": 21995,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:06:35"
+    },
+    {
+        "device_id": "217",
+        "available_pickup_stop_ids": [
+            38
+        ],
+        "available_dropoff_stop_ids": [
+            41
+        ],
+        "o_relative_time": 22010,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:06:50"
+    },
+    {
+        "device_id": "218",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            31,
+            32
+        ],
+        "o_relative_time": 22036,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:07:16"
+    },
+    {
+        "device_id": "219",
+        "available_pickup_stop_ids": [
+            38
+        ],
+        "available_dropoff_stop_ids": [
+            41
+        ],
+        "o_relative_time": 22085,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:08:05"
+    },
+    {
+        "device_id": "220",
+        "available_pickup_stop_ids": [
+            18
+        ],
+        "available_dropoff_stop_ids": [
+            36,
+            35
+        ],
+        "o_relative_time": 22111,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:08:31"
+    },
+    {
+        "device_id": "221",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            50
+        ],
+        "o_relative_time": 22180,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:09:40"
+    },
+    {
+        "device_id": "222",
+        "available_pickup_stop_ids": [
+            20
+        ],
+        "available_dropoff_stop_ids": [
+            15,
+            14
+        ],
+        "o_relative_time": 22233,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:10:33"
+    },
+    {
+        "device_id": "223",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            75
+        ],
+        "o_relative_time": 22239,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:10:39"
+    },
+    {
+        "device_id": "224",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            146,
+            145
+        ],
+        "o_relative_time": 22305,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:11:45"
+    },
+    {
+        "device_id": "225",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 22321,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:12:01"
+    },
+    {
+        "device_id": "226",
+        "available_pickup_stop_ids": [
+            88
+        ],
+        "available_dropoff_stop_ids": [
+            65,
+            64
+        ],
+        "o_relative_time": 22383,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:13:03"
+    },
+    {
+        "device_id": "227",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            31,
+            32
+        ],
+        "o_relative_time": 22407,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:13:27"
+    },
+    {
+        "device_id": "228",
+        "available_pickup_stop_ids": [
+            55
+        ],
+        "available_dropoff_stop_ids": [
+            128
+        ],
+        "o_relative_time": 22420,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:13:40"
+    },
+    {
+        "device_id": "229",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 22454,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:14:14"
+    },
+    {
+        "device_id": "230",
+        "available_pickup_stop_ids": [
+            127
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 22585,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:16:25"
+    },
+    {
+        "device_id": "231",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 22587,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:16:27"
+    },
+    {
+        "device_id": "232",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            75
+        ],
+        "o_relative_time": 22650,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:17:30"
+    },
+    {
+        "device_id": "233",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 22664,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:17:44"
+    },
+    {
+        "device_id": "234",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            145,
+            146
+        ],
+        "o_relative_time": 22668,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:17:48"
+    },
+    {
+        "device_id": "235",
+        "available_pickup_stop_ids": [
+            20
+        ],
+        "available_dropoff_stop_ids": [
+            15,
+            14
+        ],
+        "o_relative_time": 22753,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:19:13"
+    },
+    {
+        "device_id": "236",
+        "available_pickup_stop_ids": [
+            96
+        ],
+        "available_dropoff_stop_ids": [
+            51
+        ],
+        "o_relative_time": 22855,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:20:55"
+    },
+    {
+        "device_id": "237",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 22956,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:22:36"
+    },
+    {
+        "device_id": "238",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 22960,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:22:40"
+    },
+    {
+        "device_id": "239",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 22964,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:22:44"
+    },
+    {
+        "device_id": "240",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 23068,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:24:28"
+    },
+    {
+        "device_id": "241",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            35,
+            36
+        ],
+        "o_relative_time": 23166,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:26:06"
+    },
+    {
+        "device_id": "242",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            143
+        ],
+        "o_relative_time": 23212,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:26:52"
+    },
+    {
+        "device_id": "243",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            36,
+            35
+        ],
+        "o_relative_time": 23227,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:27:07"
+    },
+    {
+        "device_id": "244",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 23310,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:28:30"
+    },
+    {
+        "device_id": "245",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            150,
+            104
+        ],
+        "o_relative_time": 23319,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:28:39"
+    },
+    {
+        "device_id": "246",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            145,
+            146
+        ],
+        "o_relative_time": 23332,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:28:52"
+    },
+    {
+        "device_id": "247",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            53,
+            54
+        ],
+        "o_relative_time": 23342,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:29:02"
+    },
+    {
+        "device_id": "248",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 23368,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:29:28"
+    },
+    {
+        "device_id": "249",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            22,
+            23
+        ],
+        "o_relative_time": 23370,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:29:30"
+    },
+    {
+        "device_id": "250",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            126
+        ],
+        "o_relative_time": 23400,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:30:00"
+    },
+    {
+        "device_id": "251",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            103
+        ],
+        "o_relative_time": 23407,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:30:07"
+    },
+    {
+        "device_id": "252",
+        "available_pickup_stop_ids": [
+            145
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 23419,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:30:19"
+    },
+    {
+        "device_id": "253",
+        "available_pickup_stop_ids": [
+            78
+        ],
+        "available_dropoff_stop_ids": [
+            68,
+            69
+        ],
+        "o_relative_time": 23433,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:30:33"
+    },
+    {
+        "device_id": "254",
+        "available_pickup_stop_ids": [
+            22
+        ],
+        "available_dropoff_stop_ids": [
+            166
+        ],
+        "o_relative_time": 23473,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:31:13"
+    },
+    {
+        "device_id": "255",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            35,
+            36
+        ],
+        "o_relative_time": 23501,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:31:41"
+    },
+    {
+        "device_id": "256",
+        "available_pickup_stop_ids": [
+            95
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 23544,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:32:24"
+    },
+    {
+        "device_id": "257",
+        "available_pickup_stop_ids": [
+            128
+        ],
+        "available_dropoff_stop_ids": [
+            69,
+            68
+        ],
+        "o_relative_time": 23560,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:32:40"
+    },
+    {
+        "device_id": "258",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            36,
+            35
+        ],
+        "o_relative_time": 23653,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:34:13"
+    },
+    {
+        "device_id": "259",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            166
+        ],
+        "o_relative_time": 23689,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:34:49"
+    },
+    {
+        "device_id": "260",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            160,
+            159
+        ],
+        "o_relative_time": 23698,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:34:58"
+    },
+    {
+        "device_id": "261",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            146,
+            145
+        ],
+        "o_relative_time": 23836,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:37:16"
+    },
+    {
+        "device_id": "262",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            163
+        ],
+        "o_relative_time": 23862,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:37:42"
+    },
+    {
+        "device_id": "263",
+        "available_pickup_stop_ids": [
+            76
+        ],
+        "available_dropoff_stop_ids": [
+            8
+        ],
+        "o_relative_time": 23965,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:39:25"
+    },
+    {
+        "device_id": "264",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            51
+        ],
+        "o_relative_time": 24179,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:42:59"
+    },
+    {
+        "device_id": "265",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 24252,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:44:12"
+    },
+    {
+        "device_id": "266",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 24315,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:45:15"
+    },
+    {
+        "device_id": "267",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 24328,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:45:28"
+    },
+    {
+        "device_id": "268",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            160,
+            159
+        ],
+        "o_relative_time": 24379,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:46:19"
+    },
+    {
+        "device_id": "269",
+        "available_pickup_stop_ids": [
+            63
+        ],
+        "available_dropoff_stop_ids": [
+            14,
+            15
+        ],
+        "o_relative_time": 24408,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:46:48"
+    },
+    {
+        "device_id": "270",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            47,
+            46
+        ],
+        "o_relative_time": 24511,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:48:31"
+    },
+    {
+        "device_id": "271",
+        "available_pickup_stop_ids": [
+            11
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 24579,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:49:39"
+    },
+    {
+        "device_id": "272",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 24601,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:50:01"
+    },
+    {
+        "device_id": "273",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 24624,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:50:24"
+    },
+    {
+        "device_id": "274",
+        "available_pickup_stop_ids": [
+            160
+        ],
+        "available_dropoff_stop_ids": [
+            84,
+            85
+        ],
+        "o_relative_time": 24683,
+        "passengers": 3,
+        "o_time": "2025-12-01 18:51:23"
+    },
+    {
+        "device_id": "275",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            144
+        ],
+        "o_relative_time": 24730,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:52:10"
+    },
+    {
+        "device_id": "276",
+        "available_pickup_stop_ids": [
+            42
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 24742,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:52:22"
+    },
+    {
+        "device_id": "277",
+        "available_pickup_stop_ids": [
+            160
+        ],
+        "available_dropoff_stop_ids": [
+            84,
+            85
+        ],
+        "o_relative_time": 24756,
+        "passengers": 3,
+        "o_time": "2025-12-01 18:52:36"
+    },
+    {
+        "device_id": "278",
+        "available_pickup_stop_ids": [
+            164
+        ],
+        "available_dropoff_stop_ids": [
+            15,
+            14
+        ],
+        "o_relative_time": 24788,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:53:08"
+    },
+    {
+        "device_id": "279",
+        "available_pickup_stop_ids": [
+            35
+        ],
+        "available_dropoff_stop_ids": [
+            50
+        ],
+        "o_relative_time": 24846,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:54:06"
+    },
+    {
+        "device_id": "280",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            134,
+            133
+        ],
+        "o_relative_time": 24869,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:54:29"
+    },
+    {
+        "device_id": "281",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 24906,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:55:06"
+    },
+    {
+        "device_id": "282",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            78,
+            79
+        ],
+        "o_relative_time": 24925,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:55:25"
+    },
+    {
+        "device_id": "283",
+        "available_pickup_stop_ids": [
+            47
+        ],
+        "available_dropoff_stop_ids": [
+            165
+        ],
+        "o_relative_time": 24961,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:56:01"
+    },
+    {
+        "device_id": "284",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            75
+        ],
+        "o_relative_time": 25034,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:57:14"
+    },
+    {
+        "device_id": "285",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            33,
+            34
+        ],
+        "o_relative_time": 25124,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:58:44"
+    },
+    {
+        "device_id": "286",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            134,
+            133
+        ],
+        "o_relative_time": 25163,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:59:23"
+    },
+    {
+        "device_id": "287",
+        "available_pickup_stop_ids": [
+            107
+        ],
+        "available_dropoff_stop_ids": [
+            156,
+            28
+        ],
+        "o_relative_time": 25182,
+        "passengers": 2,
+        "o_time": "2025-12-01 18:59:42"
+    },
+    {
+        "device_id": "288",
+        "available_pickup_stop_ids": [
+            156
+        ],
+        "available_dropoff_stop_ids": [
+            52
+        ],
+        "o_relative_time": 25190,
+        "passengers": 1,
+        "o_time": "2025-12-01 18:59:50"
+    },
+    {
+        "device_id": "289",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            34,
+            33
+        ],
+        "o_relative_time": 25261,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:01:01"
+    },
+    {
+        "device_id": "290",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 25270,
+        "passengers": 2,
+        "o_time": "2025-12-01 19:01:10"
+    },
+    {
+        "device_id": "291",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            118
+        ],
+        "o_relative_time": 25341,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:02:21"
+    },
+    {
+        "device_id": "292",
+        "available_pickup_stop_ids": [
+            128
+        ],
+        "available_dropoff_stop_ids": [
+            148,
+            149
+        ],
+        "o_relative_time": 25389,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:03:09"
+    },
+    {
+        "device_id": "293",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            22,
+            23
+        ],
+        "o_relative_time": 25411,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:03:31"
+    },
+    {
+        "device_id": "294",
+        "available_pickup_stop_ids": [
+            128
+        ],
+        "available_dropoff_stop_ids": [
+            31,
+            32
+        ],
+        "o_relative_time": 25523,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:05:23"
+    },
+    {
+        "device_id": "295",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 25538,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:05:38"
+    },
+    {
+        "device_id": "296",
+        "available_pickup_stop_ids": [
+            75
+        ],
+        "available_dropoff_stop_ids": [
+            31,
+            32
+        ],
+        "o_relative_time": 25595,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:06:35"
+    },
+    {
+        "device_id": "297",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            34,
+            33
+        ],
+        "o_relative_time": 25646,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:07:26"
+    },
+    {
+        "device_id": "298",
+        "available_pickup_stop_ids": [
+            44
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 25731,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:08:51"
+    },
+    {
+        "device_id": "299",
+        "available_pickup_stop_ids": [
+            23
+        ],
+        "available_dropoff_stop_ids": [
+            160,
+            159
+        ],
+        "o_relative_time": 25743,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:09:03"
+    },
+    {
+        "device_id": "300",
+        "available_pickup_stop_ids": [
+            35
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 25946,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:12:26"
+    },
+    {
+        "device_id": "301",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            34,
+            33
+        ],
+        "o_relative_time": 26077,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:14:37"
+    },
+    {
+        "device_id": "302",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            160,
+            159
+        ],
+        "o_relative_time": 26121,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:15:21"
+    },
+    {
+        "device_id": "303",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            104,
+            150
+        ],
+        "o_relative_time": 26763,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:26:03"
+    },
+    {
+        "device_id": "304",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            20,
+            21
+        ],
+        "o_relative_time": 26795,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:26:35"
+    },
+    {
+        "device_id": "305",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            104,
+            150
+        ],
+        "o_relative_time": 26849,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:27:29"
+    },
+    {
+        "device_id": "306",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            143
+        ],
+        "o_relative_time": 26862,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:27:42"
+    },
+    {
+        "device_id": "307",
+        "available_pickup_stop_ids": [
+            92
+        ],
+        "available_dropoff_stop_ids": [
+            11,
+            10
+        ],
+        "o_relative_time": 27075,
+        "passengers": 2,
+        "o_time": "2025-12-01 19:31:15"
+    },
+    {
+        "device_id": "308",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            116,
+            117
+        ],
+        "o_relative_time": 27089,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:31:29"
+    },
+    {
+        "device_id": "309",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            172
+        ],
+        "o_relative_time": 27247,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:34:07"
+    },
+    {
+        "device_id": "310",
+        "available_pickup_stop_ids": [
+            155
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 27264,
+        "passengers": 3,
+        "o_time": "2025-12-01 19:34:24"
+    },
+    {
+        "device_id": "311",
+        "available_pickup_stop_ids": [
+            44
+        ],
+        "available_dropoff_stop_ids": [
+            148,
+            149
+        ],
+        "o_relative_time": 27352,
+        "passengers": 4,
+        "o_time": "2025-12-01 19:35:52"
+    },
+    {
+        "device_id": "312",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            121,
+            122
+        ],
+        "o_relative_time": 27391,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:36:31"
+    },
+    {
+        "device_id": "313",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 27545,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:39:05"
+    },
+    {
+        "device_id": "314",
+        "available_pickup_stop_ids": [
+            14
+        ],
+        "available_dropoff_stop_ids": [
+            67,
+            66
+        ],
+        "o_relative_time": 27800,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:43:20"
+    },
+    {
+        "device_id": "315",
+        "available_pickup_stop_ids": [
+            134
+        ],
+        "available_dropoff_stop_ids": [
+            42
+        ],
+        "o_relative_time": 27809,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:43:29"
+    },
+    {
+        "device_id": "316",
+        "available_pickup_stop_ids": [
+            10
+        ],
+        "available_dropoff_stop_ids": [
+            92
+        ],
+        "o_relative_time": 27815,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:43:35"
+    },
+    {
+        "device_id": "317",
+        "available_pickup_stop_ids": [
+            70
+        ],
+        "available_dropoff_stop_ids": [
+            145,
+            146
+        ],
+        "o_relative_time": 27932,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:45:32"
+    },
+    {
+        "device_id": "318",
+        "available_pickup_stop_ids": [
+            140
+        ],
+        "available_dropoff_stop_ids": [
+            50
+        ],
+        "o_relative_time": 28006,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:46:46"
+    },
+    {
+        "device_id": "319",
+        "available_pickup_stop_ids": [
+            15
+        ],
+        "available_dropoff_stop_ids": [
+            71
+        ],
+        "o_relative_time": 28314,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:51:54"
+    },
+    {
+        "device_id": "320",
+        "available_pickup_stop_ids": [
+            131
+        ],
+        "available_dropoff_stop_ids": [
+            161,
+            162
+        ],
+        "o_relative_time": 28346,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:52:26"
+    },
+    {
+        "device_id": "321",
+        "available_pickup_stop_ids": [
+            165
+        ],
+        "available_dropoff_stop_ids": [
+            92
+        ],
+        "o_relative_time": 28434,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:53:54"
+    },
+    {
+        "device_id": "322",
+        "available_pickup_stop_ids": [
+            43
+        ],
+        "available_dropoff_stop_ids": [
+            65,
+            64
+        ],
+        "o_relative_time": 28654,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:57:34"
+    },
+    {
+        "device_id": "323",
+        "available_pickup_stop_ids": [
+            70
+        ],
+        "available_dropoff_stop_ids": [
+            145,
+            146
+        ],
+        "o_relative_time": 28783,
+        "passengers": 1,
+        "o_time": "2025-12-01 19:59:43"
+    }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "vehicle_id": 1,
+    "vehicle_num": "甘A*10671D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 1
+  },
+  {
+    "vehicle_id": 2,
+    "vehicle_num": "甘A*10053D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 2
+  },
+  {
+    "vehicle_id": 3,
+    "vehicle_num": "甘A*52907D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 3
+  },
+  {
+    "vehicle_id": 4,
+    "vehicle_num": "甘A*60280D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 4
+  }
+]

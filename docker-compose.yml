@@ -1,0 +1,25 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: simple_sim_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: simple_sim_platform
+    ports:
+      - "5432:5432"
+    volumes:
+      - simple_sim_pgdata:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7
+    container_name: simple_sim_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+
+volumes:
+  simple_sim_pgdata:
+
+

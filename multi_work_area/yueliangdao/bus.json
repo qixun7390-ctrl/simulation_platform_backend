@@ -1,0 +1,178 @@
+[
+  {
+    "vehicle_id": 1,
+    "vehicle_num": "湘A·F3333D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 1
+  },
+  {
+    "vehicle_id": 2,
+    "vehicle_num": "湘A·09512D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 2
+  },
+  {
+    "vehicle_id": 3,
+    "vehicle_num": "湘A·06009D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 3
+  },
+  {
+    "vehicle_id": 4,
+    "vehicle_num": "湘A·06092D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 4
+  },
+  {
+    "vehicle_id": 5,
+    "vehicle_num": "湘A·06075D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 5
+  },
+  {
+    "vehicle_id": 6,
+    "vehicle_num": "湘A·06081D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 6
+  },
+  {
+    "vehicle_id": 7,
+    "vehicle_num": "湘A·06085D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 7
+  },
+  {
+    "vehicle_id": 8,
+    "vehicle_num": "湘A·06258D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 8
+  },
+  {
+    "vehicle_id": 9,
+    "vehicle_num": "湘A·06018D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 9
+  },
+  {
+    "vehicle_id": 10,
+    "vehicle_num": "湘A·06001D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 10
+  },
+  {
+    "vehicle_id": 11,
+    "vehicle_num": "湘A·06017D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 11
+  },
+  {
+    "vehicle_id": 12,
+    "vehicle_num": "湘A·06071D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 12
+  },
+  {
+    "vehicle_id": 13,
+    "vehicle_num": "湘A·09186D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 13
+  },
+  {
+    "vehicle_id": 14,
+    "vehicle_num": "湘A·06168D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 14
+  },
+  {
+    "vehicle_id": 15,
+    "vehicle_num": "湘A·09845D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 15
+  },
+  {
+    "vehicle_id": 16,
+    "vehicle_num": "湘A7A359",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 16
+  },
+  {
+    "vehicle_id": 17,
+    "vehicle_num": "湘A7A337",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 17
+  },
+  {
+    "vehicle_id": 18,
+    "vehicle_num": "湘A07182D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 18
+  },
+  {
+    "vehicle_id": 19,
+    "vehicle_num": "湘A7A321",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 19
+  },
+  {
+    "vehicle_id": 20,
+    "vehicle_num": "湘A7A350",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 20
+  },
+  {
+    "vehicle_id": 21,
+    "vehicle_num": "湘A7A327",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 21
+  },
+  {
+    "vehicle_id": 22,
+    "vehicle_num": "湘A06006D",
+    "vehicle_speed": 5.555,
+    "vehicle_capacity": 18,
+    "vehicle_length": 3,
+    "vehicle_init_stop_id": 22
+  }
+]

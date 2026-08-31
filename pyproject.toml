@@ -1,0 +1,21 @@
+[project]
+name = "pythonproject5"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.139.0",
+    "uvicorn[standard]>=0.51.0",
+    "sqlalchemy>=2.0.51",
+    "asyncpg>=0.31.0",
+    "pydantic-settings>=2.14.2",
+    "python-multipart>=0.0.32",
+    "alembic>=1.19.1",
+    "celery>=5.6.3",
+    "redis>=8.1.0",
+    "psycopg2>=2.9.12",
+    "psycopg[binary]>=3.3.4",
+    "requests>=2.34.2",
+    "pytest>=9.1.1",
+]

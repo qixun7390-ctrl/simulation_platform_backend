@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files - never commit real secrets
+.env
+.env.*
+!.env.example
+!.env.docker.example
+
+# Runtime data / simulator outputs
+logs/
+data/
+*.log
+
+# Local work area and manual tests
+multi_work_area/
+test/
+tests/
+
+# Docker local override / backup
+*.bak
+docker-compose.override.yml
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

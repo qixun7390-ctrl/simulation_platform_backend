@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af0823f0-93bf-4d72-aeb8-340a1d06dee4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic/versions/8142db52dfa4_add_walk_link_signal_paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/datamanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/logs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/celery_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/sync_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/datamanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/datamanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/parse_status_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/storage_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tasks/simulation_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/buses/bus_file_3757434c69b74154a6142a76250e530d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/map/map_file_24b28f2e2ffe491d9daf6b8d2af7c6eb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/orders/order_file_03855164cc254e0884d07672756a2778.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/signals/signal_file_0048e4e7cc5d47a4bfebc7bc89b7aa73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/stops/stop_file_93f20d2751a84964a82f10641d3ede8e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_020417_d2413b0a_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/buses/bus_file_21982532744c4c40a43e388696686d34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/map/map_file_f3e65f48e00e45d7852e852e9989aaa0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/orders/order_file_e4ea0e94c4a44c41ba5c3cdca781b035.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/signals/signal_file_0ae84f75c89d42de9953940776794a00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/stops/stop_file_5b0f4fafc99447bcb662a18d47769169.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_023457_7fce43c7_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/buses/bus_file_94e8bf422e09494f8fc301994935db36.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/map/map_file_844b33848b784fa8bc8944b22836a430.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/orders/order_file_5e2b0bde68164a36914261362ed9746f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/signals/signal_file_d2b7c72868fd4727a1f921baa4f5e878.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/stops/stop_file_9b1503086061465a8ee8c88ac2a9a26a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/agent_area_20260817_142458_354531df_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/buses/bus_file_b76846b4623a4bbe94da6a35045f00dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/map/map_file_1a667ed0b6e144cbb384b67239212647.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/orders/order_file_3f016145deb24e9b95fa5660e683fe2b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/signals/signal_file_b1c5ca219da74388b24d3c3951e0fbc2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/stops/stop_file_28feb84d5d584714bb4607ac190dd129.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_020843_cf0db987_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/buses/bus_file_f76a01ef787d40e0ae9d88d024d89684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/map/map_file_b16d399c350d4a92a96683087a226945.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/orders/order_file_c545044342e2423b84b0aa09e646e661.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/signals/signal_file_883685dc5e1c4336ba013ffc0a2d7d41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/stops/stop_file_ebde1d086ad64a5b8e9800de2e1544dd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101600_91d3ba12_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/buses/bus_file_a749ece38a6a4f2582be3ac3ef4abff4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/map/map_file_581b0a8f87cd4aaabc8d82c19e4921ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/orders/order_file_1628d0a13fa240519714e814e3f3dc83.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/signals/signal_file_e53f6be788904a80ab20d1ec55418a23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/stops/stop_file_64a91807f28145d083b31e08417a89cd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_101920_3927d54d_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/buses/bus_file_432f719171f942a68f8610b0fabc5da5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/map/map_file_b25e67ef171f4772a5658af72f577b73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/orders/order_file_42f96a4e20eb4523985c490bd43c9cc1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/signals/signal_file_31b1e56f8e2f4968b00f42b0833a2c14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/stops/stop_file_b97051fb6dd049ccb4821e97bc5270a7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_20260817_160059_3edaa8e6_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/linkong_654f2d42_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_149e3345_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_1d285dbc_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_527e768e_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_63c629c3_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_7c933531_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_845ccb96_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_8ea00439_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d0fc533d_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/buses/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/map/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/orders/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/signals/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/stops/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/shaoxing_d10dfbe8_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/buses/bus_file_158fff99f4ab4d8fa129e639f2a17b5a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/map/map_file_0d5d7ebb8a8c4a11ac5d80bb52ba30a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/orders/order_file_19f8214f99aa4887aa6102517e98e65a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/signals/signal_file_5ac76dd221584022a61a7d10261167c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/stops/stop_file_9eef8443ae9347b088cf1857105f9263.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/zhijiaocheng_20260817_092723_85a4947f_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/buses/bus_file_f12b0a3704a64b42bdfb9bf6a9b94fc0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/map/map_file_7e9de9369bab49bebfa1bf0745513efb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/orders/order_file_15ae622cd25a4cc1b3784a5dbcf67baf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/signals/signal_file_bb9a5f604031497cb03f506ab3cc864c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/stops/stop_file_c45a85e3db5742029bca1d7fc6838173.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_000004_4ae9ada6_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/buses/bus_file_b589b12c1f1046eab51087c630deaa85.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/map/map_file_9c61b658db5d4529a9a9fa404b882678.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/orders/order_file_92704fdcfca2437a949d9a7230510a7d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/signals/signal_file_91a3f0d08a024db78e32c766cd8671c0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/stops/stop_file_070239e752194e83b57288d520196af4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/walk_links/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/联调测试_20260816_114850_e70634bb_area/walk_signals/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/manual-test-999/manual-test-999.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/manual-test-999/manual-test-999_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/manual-test-999/manual-test-999_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-10-20260814130822-8cf3ef8e/simulation-10-20260814130822-8cf3ef8e.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-10-20260814130822-8cf3ef8e/simulation-10-20260814130822-8cf3ef8e_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-10-20260814130822-8cf3ef8e/simulation-10-20260814130822-8cf3ef8e_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-10-20260814130822-8cf3ef8e/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-10-20260814130822-8cf3ef8e/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-11-20260815133658-68bb51ff/simulation-11-20260815133658-68bb51ff.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-11-20260815133658-68bb51ff/simulation-11-20260815133658-68bb51ff_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-11-20260815133658-68bb51ff/simulation-11-20260815133658-68bb51ff_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-11-20260815133658-68bb51ff/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-11-20260815133658-68bb51ff/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-12-20260815144226-7fd18746/simulation-12-20260815144226-7fd18746.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-12-20260815144226-7fd18746/simulation-12-20260815144226-7fd18746_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-12-20260815144226-7fd18746/simulation-12-20260815144226-7fd18746_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-12-20260815144226-7fd18746/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-12-20260815144226-7fd18746/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-13-20260815153236-4b79d236/simulation-13-20260815153236-4b79d236.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-13-20260815153236-4b79d236/simulation-13-20260815153236-4b79d236_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-13-20260815153236-4b79d236/simulation-13-20260815153236-4b79d236_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-13-20260815153236-4b79d236/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-13-20260815153236-4b79d236/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-14-20260815160005-52c793c6/simulation-14-20260815160005-52c793c6.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-14-20260815160005-52c793c6/simulation-14-20260815160005-52c793c6_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-14-20260815160005-52c793c6/simulation-14-20260815160005-52c793c6_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-14-20260815160005-52c793c6/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-14-20260815160005-52c793c6/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-15-20260816034851-0c258350/simulation-15-20260816034851-0c258350.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-15-20260816034851-0c258350/simulation-15-20260816034851-0c258350_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-15-20260816034851-0c258350/simulation-15-20260816034851-0c258350_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-15-20260816034851-0c258350/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-15-20260816034851-0c258350/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-16-20260816180418-b8027da6/simulation-16-20260816180418-b8027da6.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-16-20260816180418-b8027da6/simulation-16-20260816180418-b8027da6_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-16-20260816180418-b8027da6/simulation-16-20260816180418-b8027da6_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-16-20260816180418-b8027da6/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-16-20260816180418-b8027da6/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-17-20260816180844-e76d1d3c/simulation-17-20260816180844-e76d1d3c.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-17-20260816180844-e76d1d3c/simulation-17-20260816180844-e76d1d3c_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-17-20260816180844-e76d1d3c/simulation-17-20260816180844-e76d1d3c_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-17-20260816180844-e76d1d3c/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-17-20260816180844-e76d1d3c/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-18-20260816183458-82bee5d0/simulation-18-20260816183458-82bee5d0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-18-20260816183458-82bee5d0/simulation-18-20260816183458-82bee5d0_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-18-20260816183458-82bee5d0/simulation-18-20260816183458-82bee5d0_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-18-20260816183458-82bee5d0/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-18-20260816183458-82bee5d0/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-19-20260817012724-b359bc8b/simulation-19-20260817012724-b359bc8b.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-19-20260817012724-b359bc8b/simulation-19-20260817012724-b359bc8b_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-19-20260817012724-b359bc8b/simulation-19-20260817012724-b359bc8b_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-19-20260817012724-b359bc8b/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-19-20260817012724-b359bc8b/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-20-20260817021602-eb3951f2/simulation-20-20260817021602-eb3951f2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-20-20260817021602-eb3951f2/simulation-20-20260817021602-eb3951f2_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-20-20260817021602-eb3951f2/simulation-20-20260817021602-eb3951f2_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-20-20260817021602-eb3951f2/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-20-20260817021602-eb3951f2/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-21-20260817021921-b5b070fb/simulation-21-20260817021921-b5b070fb.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-21-20260817021921-b5b070fb/simulation-21-20260817021921-b5b070fb_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-21-20260817021921-b5b070fb/simulation-21-20260817021921-b5b070fb_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-21-20260817021921-b5b070fb/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-21-20260817021921-b5b070fb/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-22-20260817062501-b4463144/simulation-22-20260817062501-b4463144.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-22-20260817062501-b4463144/simulation-22-20260817062501-b4463144_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-22-20260817062501-b4463144/simulation-22-20260817062501-b4463144_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-22-20260817062501-b4463144/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-22-20260817062501-b4463144/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-23-20260817080100-63029a0f/simulation-23-20260817080100-63029a0f.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-23-20260817080100-63029a0f/simulation-23-20260817080100-63029a0f_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-23-20260817080100-63029a0f/simulation-23-20260817080100-63029a0f_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-23-20260817080100-63029a0f/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-23-20260817080100-63029a0f/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-9-20260814093924-4a05c151/simulation-9-20260814093924-4a05c151.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-9-20260814093924-4a05c151/simulation-9-20260814093924-4a05c151_position.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-9-20260814093924-4a05c151/simulation-9-20260814093924-4a05c151_status.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-9-20260814093924-4a05c151/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/simulator/simulation-9-20260814093924-4a05c151/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._anningqu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._linkong" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._pengjiaping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._shaoxing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._tianxin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._yueliangdao" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/._zhijiaocheng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/direct_dist_map_map_stop_bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/direct_time_map_map_stop_bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/anningqu/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/linkong/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/pengjiaping/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/direct_dist_map_map_stop_bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/direct_time_map_map_stop_bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/shaoxing/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/tianxin/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/yueliangdao/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/._bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/._map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/._order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/._signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/._stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/signal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/stop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/walk_links.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_work_area/zhijiaocheng/walk_signals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/manual_upload_and_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3Hon5gu0qqahtVcIn6tw2enOPFV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.manual_upload_and_run.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject5&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProject5" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="af0823f0-93bf-4d72-aeb8-340a1d06dee4" name="更改" comment="" />
+      <created>1786543107770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786543107770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/api/logs.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

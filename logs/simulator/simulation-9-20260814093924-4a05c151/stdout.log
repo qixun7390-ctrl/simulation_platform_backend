@@ -1,0 +1,1086 @@
+log_path: D:\PythonProject5\logs\simulator\simulation-9-20260814093924-4a05c151
+Loading map from D:\PythonProject5\data\shaoxing_7c933531_area\map\map.json
+Loading walking links from D:\PythonProject5\data\shaoxing_7c933531_area\walk_links\walk_links.json
+Loading stops from D:\PythonProject5\data\shaoxing_7c933531_area\stops\stop.json
+Loading signal from D:\PythonProject5\data\shaoxing_7c933531_area\signals\signal.json
+Loading walking signals from D:\PythonProject5\data\shaoxing_7c933531_area\walk_signals\walk_signals.json
+Loading buses from D:\PythonProject5\data\shaoxing_7c933531_area\buses\bus.json
+Loading orders from D:\PythonProject5\data\shaoxing_7c933531_area\orders\order.json
+Simulator::runFor: now_ = 0 target = 10
+[progress] simulator time = 10 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 1, route_id: 1 id: 0 at time: 19
+Processed event: PassengerRouteStartEvent, passenger_id: 1, route_id: 1 id: 0
+processing event: OrderCreatedEvent, order_id: 1, available_pickups: 2 , available_dropoffs: 1 , passenger_id: 1, route_id: 1, passenger_num: 0 id: 778 at time: 19
+Processed event: OrderCreatedEvent, order_id: 1, available_pickups: 2 , available_dropoffs: 1 , passenger_id: 1, route_id: 1, passenger_num: 2 id: 778
+Simulator::runFor: now_ = 19 target = 20
+[progress] simulator time = 20 / 3600
+Simulator::runFor: now_ = 20 target = 30
+[progress] simulator time = 30 / 3600
+Simulator::runFor: now_ = 30 target = 40
+[progress] simulator time = 40 / 3600
+Simulator::runFor: now_ = 40 target = 50
+[progress] simulator time = 50 / 3600
+Simulator::runFor: now_ = 50 target = 60
+[progress] simulator time = 60 / 3600
+Simulator::runFor: now_ = 60 target = 70
+[progress] simulator time = 70 / 3600
+Simulator::runFor: now_ = 70 target = 80
+[progress] simulator time = 80 / 3600
+Simulator::runFor: now_ = 80 target = 90
+[progress] simulator time = 90 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 2, route_id: 1 id: 1 at time: 100
+Processed event: PassengerRouteStartEvent, passenger_id: 2, route_id: 1 id: 1
+processing event: OrderCreatedEvent, order_id: 2, available_pickups: 216 , available_dropoffs: 58 , passenger_id: 2, route_id: 1, passenger_num: 0 id: 779 at time: 100
+Processed event: OrderCreatedEvent, order_id: 2, available_pickups: 216 , available_dropoffs: 58 , passenger_id: 2, route_id: 1, passenger_num: 3 id: 779
+Simulator::runFor: now_ = 100 target = 100
+[progress] simulator time = 100 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 3, route_id: 1 id: 2 at time: 105
+Processed event: PassengerRouteStartEvent, passenger_id: 3, route_id: 1 id: 2
+processing event: OrderCreatedEvent, order_id: 3, available_pickups: 218 , available_dropoffs: 161 , passenger_id: 3, route_id: 1, passenger_num: 0 id: 780 at time: 105
+Processed event: OrderCreatedEvent, order_id: 3, available_pickups: 218 , available_dropoffs: 161 , passenger_id: 3, route_id: 1, passenger_num: 1 id: 780
+Simulator::runFor: now_ = 105 target = 110
+[progress] simulator time = 110 / 3600
+Simulator::runFor: now_ = 110 target = 120
+[progress] simulator time = 120 / 3600
+Simulator::runFor: now_ = 120 target = 130
+[progress] simulator time = 130 / 3600
+Simulator::runFor: now_ = 130 target = 140
+[progress] simulator time = 140 / 3600
+Simulator::runFor: now_ = 140 target = 150
+[progress] simulator time = 150 / 3600
+Simulator::runFor: now_ = 150 target = 160
+[progress] simulator time = 160 / 3600
+Simulator::runFor: now_ = 160 target = 170
+[progress] simulator time = 170 / 3600
+Simulator::runFor: now_ = 170 target = 180
+[progress] simulator time = 180 / 3600
+Simulator::runFor: now_ = 180 target = 190
+[progress] simulator time = 190 / 3600
+Simulator::runFor: now_ = 190 target = 200
+[progress] simulator time = 200 / 3600
+Simulator::runFor: now_ = 200 target = 210
+[progress] simulator time = 210 / 3600
+Simulator::runFor: now_ = 210 target = 220
+[progress] simulator time = 220 / 3600
+Simulator::runFor: now_ = 220 target = 230
+[progress] simulator time = 230 / 3600
+Simulator::runFor: now_ = 230 target = 240
+[progress] simulator time = 240 / 3600
+Simulator::runFor: now_ = 240 target = 250
+[progress] simulator time = 250 / 3600
+Simulator::runFor: now_ = 250 target = 260
+[progress] simulator time = 260 / 3600
+Simulator::runFor: now_ = 260 target = 270
+[progress] simulator time = 270 / 3600
+Simulator::runFor: now_ = 270 target = 280
+[progress] simulator time = 280 / 3600
+Simulator::runFor: now_ = 280 target = 290
+[progress] simulator time = 290 / 3600
+Simulator::runFor: now_ = 290 target = 300
+[progress] simulator time = 300 / 3600
+Simulator::runFor: now_ = 300 target = 310
+[progress] simulator time = 310 / 3600
+Simulator::runFor: now_ = 310 target = 320
+[progress] simulator time = 320 / 3600
+Simulator::runFor: now_ = 320 target = 330
+[progress] simulator time = 330 / 3600
+Simulator::runFor: now_ = 330 target = 340
+[progress] simulator time = 340 / 3600
+Simulator::runFor: now_ = 340 target = 350
+[progress] simulator time = 350 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 4, route_id: 1 id: 3 at time: 357
+Processed event: PassengerRouteStartEvent, passenger_id: 4, route_id: 1 id: 3
+processing event: OrderCreatedEvent, order_id: 4, available_pickups: 102 , available_dropoffs: 156 , passenger_id: 4, route_id: 1, passenger_num: 0 id: 781 at time: 357
+Processed event: OrderCreatedEvent, order_id: 4, available_pickups: 102 , available_dropoffs: 156 , passenger_id: 4, route_id: 1, passenger_num: 2 id: 781
+Simulator::runFor: now_ = 357 target = 360
+[progress] simulator time = 360 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 5, route_id: 1 id: 4 at time: 367
+Processed event: PassengerRouteStartEvent, passenger_id: 5, route_id: 1 id: 4
+processing event: OrderCreatedEvent, order_id: 5, available_pickups: 222 , available_dropoffs: 68 , passenger_id: 5, route_id: 1, passenger_num: 0 id: 782 at time: 367
+Processed event: OrderCreatedEvent, order_id: 5, available_pickups: 222 , available_dropoffs: 68 , passenger_id: 5, route_id: 1, passenger_num: 2 id: 782
+Simulator::runFor: now_ = 367 target = 370
+[progress] simulator time = 370 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 6, route_id: 1 id: 5 at time: 371
+Processed event: PassengerRouteStartEvent, passenger_id: 6, route_id: 1 id: 5
+processing event: OrderCreatedEvent, order_id: 6, available_pickups: 55 , available_dropoffs: 36 , passenger_id: 6, route_id: 1, passenger_num: 0 id: 783 at time: 371
+Processed event: OrderCreatedEvent, order_id: 6, available_pickups: 55 , available_dropoffs: 36 , passenger_id: 6, route_id: 1, passenger_num: 1 id: 783
+Simulator::runFor: now_ = 371 target = 380
+[progress] simulator time = 380 / 3600
+Simulator::runFor: now_ = 380 target = 390
+[progress] simulator time = 390 / 3600
+Simulator::runFor: now_ = 390 target = 400
+[progress] simulator time = 400 / 3600
+Simulator::runFor: now_ = 400 target = 410
+[progress] simulator time = 410 / 3600
+Simulator::runFor: now_ = 410 target = 420
+[progress] simulator time = 420 / 3600
+Simulator::runFor: now_ = 420 target = 430
+[progress] simulator time = 430 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 7, route_id: 1 id: 6 at time: 432
+Processed event: PassengerRouteStartEvent, passenger_id: 7, route_id: 1 id: 6
+processing event: OrderCreatedEvent, order_id: 7, available_pickups: 36 , available_dropoffs: 206 , passenger_id: 7, route_id: 1, passenger_num: 0 id: 784 at time: 432
+Processed event: OrderCreatedEvent, order_id: 7, available_pickups: 36 , available_dropoffs: 206 , passenger_id: 7, route_id: 1, passenger_num: 1 id: 784
+processing event: PassengerRouteStartEvent, passenger_id: 8, route_id: 1 id: 7 at time: 435
+Processed event: PassengerRouteStartEvent, passenger_id: 8, route_id: 1 id: 7
+processing event: OrderCreatedEvent, order_id: 8, available_pickups: 75 , available_dropoffs: 108 , passenger_id: 8, route_id: 1, passenger_num: 0 id: 785 at time: 435
+Processed event: OrderCreatedEvent, order_id: 8, available_pickups: 75 , available_dropoffs: 108 , passenger_id: 8, route_id: 1, passenger_num: 1 id: 785
+Simulator::runFor: now_ = 435 target = 440
+[progress] simulator time = 440 / 3600
+Simulator::runFor: now_ = 440 target = 450
+[progress] simulator time = 450 / 3600
+Simulator::runFor: now_ = 450 target = 460
+[progress] simulator time = 460 / 3600
+Simulator::runFor: now_ = 460 target = 470
+[progress] simulator time = 470 / 3600
+Simulator::runFor: now_ = 470 target = 480
+[progress] simulator time = 480 / 3600
+Simulator::runFor: now_ = 480 target = 490
+[progress] simulator time = 490 / 3600
+Simulator::runFor: now_ = 490 target = 500
+[progress] simulator time = 500 / 3600
+Simulator::runFor: now_ = 500 target = 510
+[progress] simulator time = 510 / 3600
+Simulator::runFor: now_ = 510 target = 520
+[progress] simulator time = 520 / 3600
+Simulator::runFor: now_ = 520 target = 530
+[progress] simulator time = 530 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 9, route_id: 1 id: 8 at time: 532
+Processed event: PassengerRouteStartEvent, passenger_id: 9, route_id: 1 id: 8
+processing event: OrderCreatedEvent, order_id: 9, available_pickups: 220 , available_dropoffs: 242 , passenger_id: 9, route_id: 1, passenger_num: 0 id: 786 at time: 532
+Processed event: OrderCreatedEvent, order_id: 9, available_pickups: 220 , available_dropoffs: 242 , passenger_id: 9, route_id: 1, passenger_num: 3 id: 786
+Simulator::runFor: now_ = 532 target = 540
+[progress] simulator time = 540 / 3600
+Simulator::runFor: now_ = 540 target = 550
+[progress] simulator time = 550 / 3600
+Simulator::runFor: now_ = 550 target = 560
+[progress] simulator time = 560 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 10, route_id: 1 id: 9 at time: 568
+Processed event: PassengerRouteStartEvent, passenger_id: 10, route_id: 1 id: 9
+processing event: OrderCreatedEvent, order_id: 10, available_pickups: 195 , available_dropoffs: 13 , passenger_id: 10, route_id: 1, passenger_num: 0 id: 787 at time: 568
+Processed event: OrderCreatedEvent, order_id: 10, available_pickups: 195 , available_dropoffs: 13 , passenger_id: 10, route_id: 1, passenger_num: 1 id: 787
+Simulator::runFor: now_ = 568 target = 570
+[progress] simulator time = 570 / 3600
+Simulator::runFor: now_ = 570 target = 580
+[progress] simulator time = 580 / 3600
+Simulator::runFor: now_ = 580 target = 590
+[progress] simulator time = 590 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 11, route_id: 1 id: 10 at time: 600
+Processed event: PassengerRouteStartEvent, passenger_id: 11, route_id: 1 id: 10
+processing event: OrderCreatedEvent, order_id: 11, available_pickups: 49 , available_dropoffs: 292 , passenger_id: 11, route_id: 1, passenger_num: 0 id: 788 at time: 600
+Processed event: OrderCreatedEvent, order_id: 11, available_pickups: 49 , available_dropoffs: 292 , passenger_id: 11, route_id: 1, passenger_num: 2 id: 788
+Simulator::runFor: now_ = 600 target = 600
+[progress] simulator time = 600 / 3600
+Simulator::runFor: now_ = 600 target = 610
+[progress] simulator time = 610 / 3600
+Simulator::runFor: now_ = 610 target = 620
+[progress] simulator time = 620 / 3600
+Simulator::runFor: now_ = 620 target = 630
+[progress] simulator time = 630 / 3600
+Simulator::runFor: now_ = 630 target = 640
+[progress] simulator time = 640 / 3600
+Simulator::runFor: now_ = 640 target = 650
+[progress] simulator time = 650 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 12, route_id: 1 id: 11 at time: 652
+Processed event: PassengerRouteStartEvent, passenger_id: 12, route_id: 1 id: 11
+processing event: OrderCreatedEvent, order_id: 12, available_pickups: 19 , available_dropoffs: 78 , passenger_id: 12, route_id: 1, passenger_num: 0 id: 789 at time: 652
+Processed event: OrderCreatedEvent, order_id: 12, available_pickups: 19 , available_dropoffs: 78 , passenger_id: 12, route_id: 1, passenger_num: 2 id: 789
+Simulator::runFor: now_ = 652 target = 660
+[progress] simulator time = 660 / 3600
+Simulator::runFor: now_ = 660 target = 670
+[progress] simulator time = 670 / 3600
+Simulator::runFor: now_ = 670 target = 680
+[progress] simulator time = 680 / 3600
+Simulator::runFor: now_ = 680 target = 690
+[progress] simulator time = 690 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 13, route_id: 1 id: 12 at time: 694
+Processed event: PassengerRouteStartEvent, passenger_id: 13, route_id: 1 id: 12
+processing event: OrderCreatedEvent, order_id: 13, available_pickups: 277 , available_dropoffs: 97 , passenger_id: 13, route_id: 1, passenger_num: 0 id: 790 at time: 694
+Processed event: OrderCreatedEvent, order_id: 13, available_pickups: 277 , available_dropoffs: 97 , passenger_id: 13, route_id: 1, passenger_num: 2 id: 790
+processing event: PassengerRouteStartEvent, passenger_id: 14, route_id: 1 id: 13 at time: 696
+Processed event: PassengerRouteStartEvent, passenger_id: 14, route_id: 1 id: 13
+processing event: OrderCreatedEvent, order_id: 14, available_pickups: 263 , available_dropoffs: 256 , passenger_id: 14, route_id: 1, passenger_num: 0 id: 791 at time: 696
+Processed event: OrderCreatedEvent, order_id: 14, available_pickups: 263 , available_dropoffs: 256 , passenger_id: 14, route_id: 1, passenger_num: 1 id: 791
+Simulator::runFor: now_ = 696 target = 700
+[progress] simulator time = 700 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 15, route_id: 1 id: 14 at time: 703
+Processed event: PassengerRouteStartEvent, passenger_id: 15, route_id: 1 id: 14
+processing event: OrderCreatedEvent, order_id: 15, available_pickups: 128 , available_dropoffs: 255 , passenger_id: 15, route_id: 1, passenger_num: 0 id: 792 at time: 703
+Processed event: OrderCreatedEvent, order_id: 15, available_pickups: 128 , available_dropoffs: 255 , passenger_id: 15, route_id: 1, passenger_num: 3 id: 792
+Simulator::runFor: now_ = 703 target = 710
+[progress] simulator time = 710 / 3600
+Simulator::runFor: now_ = 710 target = 720
+[progress] simulator time = 720 / 3600
+Simulator::runFor: now_ = 720 target = 730
+[progress] simulator time = 730 / 3600
+Simulator::runFor: now_ = 730 target = 740
+[progress] simulator time = 740 / 3600
+Simulator::runFor: now_ = 740 target = 750
+[progress] simulator time = 750 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 16, route_id: 1 id: 15 at time: 751
+Processed event: PassengerRouteStartEvent, passenger_id: 16, route_id: 1 id: 15
+processing event: OrderCreatedEvent, order_id: 16, available_pickups: 78 , available_dropoffs: 183 , passenger_id: 16, route_id: 1, passenger_num: 0 id: 793 at time: 751
+Processed event: OrderCreatedEvent, order_id: 16, available_pickups: 78 , available_dropoffs: 183 , passenger_id: 16, route_id: 1, passenger_num: 2 id: 793
+processing event: PassengerRouteStartEvent, passenger_id: 17, route_id: 1 id: 16 at time: 754
+Processed event: PassengerRouteStartEvent, passenger_id: 17, route_id: 1 id: 16
+processing event: OrderCreatedEvent, order_id: 17, available_pickups: 68 , available_dropoffs: 11 , passenger_id: 17, route_id: 1, passenger_num: 0 id: 794 at time: 754
+Processed event: OrderCreatedEvent, order_id: 17, available_pickups: 68 , available_dropoffs: 11 , passenger_id: 17, route_id: 1, passenger_num: 1 id: 794
+Simulator::runFor: now_ = 754 target = 760
+[progress] simulator time = 760 / 3600
+Simulator::runFor: now_ = 760 target = 770
+[progress] simulator time = 770 / 3600
+Simulator::runFor: now_ = 770 target = 780
+[progress] simulator time = 780 / 3600
+Simulator::runFor: now_ = 780 target = 790
+[progress] simulator time = 790 / 3600
+Simulator::runFor: now_ = 790 target = 800
+[progress] simulator time = 800 / 3600
+Simulator::runFor: now_ = 800 target = 810
+[progress] simulator time = 810 / 3600
+Simulator::runFor: now_ = 810 target = 820
+[progress] simulator time = 820 / 3600
+Simulator::runFor: now_ = 820 target = 830
+[progress] simulator time = 830 / 3600
+Simulator::runFor: now_ = 830 target = 840
+[progress] simulator time = 840 / 3600
+Simulator::runFor: now_ = 840 target = 850
+[progress] simulator time = 850 / 3600
+Simulator::runFor: now_ = 850 target = 860
+[progress] simulator time = 860 / 3600
+Simulator::runFor: now_ = 860 target = 870
+[progress] simulator time = 870 / 3600
+Simulator::runFor: now_ = 870 target = 880
+[progress] simulator time = 880 / 3600
+Simulator::runFor: now_ = 880 target = 890
+[progress] simulator time = 890 / 3600
+Simulator::runFor: now_ = 890 target = 900
+[progress] simulator time = 900 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 18, route_id: 1 id: 17 at time: 901
+Processed event: PassengerRouteStartEvent, passenger_id: 18, route_id: 1 id: 17
+processing event: OrderCreatedEvent, order_id: 18, available_pickups: 8 , available_dropoffs: 179 , passenger_id: 18, route_id: 1, passenger_num: 0 id: 795 at time: 901
+Processed event: OrderCreatedEvent, order_id: 18, available_pickups: 8 , available_dropoffs: 179 , passenger_id: 18, route_id: 1, passenger_num: 1 id: 795
+Simulator::runFor: now_ = 901 target = 910
+[progress] simulator time = 910 / 3600
+Simulator::runFor: now_ = 910 target = 920
+[progress] simulator time = 920 / 3600
+Simulator::runFor: now_ = 920 target = 930
+[progress] simulator time = 930 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 19, route_id: 1 id: 18 at time: 938
+Processed event: PassengerRouteStartEvent, passenger_id: 19, route_id: 1 id: 18
+processing event: OrderCreatedEvent, order_id: 19, available_pickups: 106 , available_dropoffs: 177 , passenger_id: 19, route_id: 1, passenger_num: 0 id: 796 at time: 938
+Processed event: OrderCreatedEvent, order_id: 19, available_pickups: 106 , available_dropoffs: 177 , passenger_id: 19, route_id: 1, passenger_num: 2 id: 796
+Simulator::runFor: now_ = 938 target = 940
+[progress] simulator time = 940 / 3600
+Simulator::runFor: now_ = 940 target = 950
+[progress] simulator time = 950 / 3600
+Simulator::runFor: now_ = 950 target = 960
+[progress] simulator time = 960 / 3600
+Simulator::runFor: now_ = 960 target = 970
+[progress] simulator time = 970 / 3600
+Simulator::runFor: now_ = 970 target = 980
+[progress] simulator time = 980 / 3600
+Simulator::runFor: now_ = 980 target = 990
+[progress] simulator time = 990 / 3600
+Simulator::runFor: now_ = 990 target = 1000
+[progress] simulator time = 1000 / 3600
+Simulator::runFor: now_ = 1000 target = 1010
+[progress] simulator time = 1010 / 3600
+Simulator::runFor: now_ = 1010 target = 1020
+[progress] simulator time = 1020 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 20, route_id: 1 id: 19 at time: 1029
+Processed event: PassengerRouteStartEvent, passenger_id: 20, route_id: 1 id: 19
+processing event: OrderCreatedEvent, order_id: 20, available_pickups: 209 , available_dropoffs: 27 , passenger_id: 20, route_id: 1, passenger_num: 0 id: 797 at time: 1029
+Processed event: OrderCreatedEvent, order_id: 20, available_pickups: 209 , available_dropoffs: 27 , passenger_id: 20, route_id: 1, passenger_num: 3 id: 797
+Simulator::runFor: now_ = 1029 target = 1030
+[progress] simulator time = 1030 / 3600
+Simulator::runFor: now_ = 1030 target = 1040
+[progress] simulator time = 1040 / 3600
+Simulator::runFor: now_ = 1040 target = 1050
+[progress] simulator time = 1050 / 3600
+Simulator::runFor: now_ = 1050 target = 1060
+[progress] simulator time = 1060 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 21, route_id: 1 id: 20 at time: 1068
+Processed event: PassengerRouteStartEvent, passenger_id: 21, route_id: 1 id: 20
+processing event: OrderCreatedEvent, order_id: 21, available_pickups: 277 , available_dropoffs: 134 , passenger_id: 21, route_id: 1, passenger_num: 0 id: 798 at time: 1068
+Processed event: OrderCreatedEvent, order_id: 21, available_pickups: 277 , available_dropoffs: 134 , passenger_id: 21, route_id: 1, passenger_num: 2 id: 798
+Simulator::runFor: now_ = 1068 target = 1070
+[progress] simulator time = 1070 / 3600
+Simulator::runFor: now_ = 1070 target = 1080
+[progress] simulator time = 1080 / 3600
+Simulator::runFor: now_ = 1080 target = 1090
+[progress] simulator time = 1090 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 22, route_id: 1 id: 21 at time: 1098
+Processed event: PassengerRouteStartEvent, passenger_id: 22, route_id: 1 id: 21
+processing event: OrderCreatedEvent, order_id: 22, available_pickups: 126 , available_dropoffs: 72 , passenger_id: 22, route_id: 1, passenger_num: 0 id: 799 at time: 1098
+Processed event: OrderCreatedEvent, order_id: 22, available_pickups: 126 , available_dropoffs: 72 , passenger_id: 22, route_id: 1, passenger_num: 2 id: 799
+Simulator::runFor: now_ = 1098 target = 1100
+[progress] simulator time = 1100 / 3600
+Simulator::runFor: now_ = 1100 target = 1110
+[progress] simulator time = 1110 / 3600
+Simulator::runFor: now_ = 1110 target = 1120
+[progress] simulator time = 1120 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 23, route_id: 1 id: 22 at time: 1125
+Processed event: PassengerRouteStartEvent, passenger_id: 23, route_id: 1 id: 22
+processing event: PassengerRouteStartEvent, passenger_id: 24, route_id: 1 id: 23 at time: 1125
+Processed event: PassengerRouteStartEvent, passenger_id: 24, route_id: 1 id: 23
+processing event: OrderCreatedEvent, order_id: 23, available_pickups: 185 , available_dropoffs: 42 , passenger_id: 23, route_id: 1, passenger_num: 0 id: 800 at time: 1125
+Processed event: OrderCreatedEvent, order_id: 23, available_pickups: 185 , available_dropoffs: 42 , passenger_id: 23, route_id: 1, passenger_num: 2 id: 800
+processing event: OrderCreatedEvent, order_id: 24, available_pickups: 223 , available_dropoffs: 183 , passenger_id: 24, route_id: 1, passenger_num: 0 id: 801 at time: 1125
+Processed event: OrderCreatedEvent, order_id: 24, available_pickups: 223 , available_dropoffs: 183 , passenger_id: 24, route_id: 1, passenger_num: 3 id: 801
+processing event: PassengerRouteStartEvent, passenger_id: 25, route_id: 1 id: 24 at time: 1127
+Processed event: PassengerRouteStartEvent, passenger_id: 25, route_id: 1 id: 24
+processing event: OrderCreatedEvent, order_id: 25, available_pickups: 201 , available_dropoffs: 138 , passenger_id: 25, route_id: 1, passenger_num: 0 id: 802 at time: 1127
+Processed event: OrderCreatedEvent, order_id: 25, available_pickups: 201 , available_dropoffs: 138 , passenger_id: 25, route_id: 1, passenger_num: 2 id: 802
+Simulator::runFor: now_ = 1127 target = 1130
+[progress] simulator time = 1130 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 26, route_id: 1 id: 25 at time: 1131
+Processed event: PassengerRouteStartEvent, passenger_id: 26, route_id: 1 id: 25
+processing event: OrderCreatedEvent, order_id: 26, available_pickups: 188 , available_dropoffs: 59 , passenger_id: 26, route_id: 1, passenger_num: 0 id: 803 at time: 1131
+Processed event: OrderCreatedEvent, order_id: 26, available_pickups: 188 , available_dropoffs: 59 , passenger_id: 26, route_id: 1, passenger_num: 2 id: 803
+Simulator::runFor: now_ = 1131 target = 1140
+[progress] simulator time = 1140 / 3600
+Simulator::runFor: now_ = 1140 target = 1150
+[progress] simulator time = 1150 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 27, route_id: 1 id: 26 at time: 1151
+Processed event: PassengerRouteStartEvent, passenger_id: 27, route_id: 1 id: 26
+processing event: OrderCreatedEvent, order_id: 27, available_pickups: 251 , available_dropoffs: 126 , passenger_id: 27, route_id: 1, passenger_num: 0 id: 804 at time: 1151
+Processed event: OrderCreatedEvent, order_id: 27, available_pickups: 251 , available_dropoffs: 126 , passenger_id: 27, route_id: 1, passenger_num: 3 id: 804
+Simulator::runFor: now_ = 1151 target = 1160
+[progress] simulator time = 1160 / 3600
+Simulator::runFor: now_ = 1160 target = 1170
+[progress] simulator time = 1170 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 28, route_id: 1 id: 27 at time: 1174
+Processed event: PassengerRouteStartEvent, passenger_id: 28, route_id: 1 id: 27
+processing event: OrderCreatedEvent, order_id: 28, available_pickups: 185 , available_dropoffs: 237 , passenger_id: 28, route_id: 1, passenger_num: 0 id: 805 at time: 1174
+Processed event: OrderCreatedEvent, order_id: 28, available_pickups: 185 , available_dropoffs: 237 , passenger_id: 28, route_id: 1, passenger_num: 2 id: 805
+Simulator::runFor: now_ = 1174 target = 1180
+[progress] simulator time = 1180 / 3600
+Simulator::runFor: now_ = 1180 target = 1190
+[progress] simulator time = 1190 / 3600
+Simulator::runFor: now_ = 1190 target = 1200
+[progress] simulator time = 1200 / 3600
+Simulator::runFor: now_ = 1200 target = 1210
+[progress] simulator time = 1210 / 3600
+Simulator::runFor: now_ = 1210 target = 1220
+[progress] simulator time = 1220 / 3600
+Simulator::runFor: now_ = 1220 target = 1230
+[progress] simulator time = 1230 / 3600
+Simulator::runFor: now_ = 1230 target = 1240
+[progress] simulator time = 1240 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 29, route_id: 1 id: 28 at time: 1244
+Processed event: PassengerRouteStartEvent, passenger_id: 29, route_id: 1 id: 28
+processing event: OrderCreatedEvent, order_id: 29, available_pickups: 97 , available_dropoffs: 292 , passenger_id: 29, route_id: 1, passenger_num: 0 id: 806 at time: 1244
+Processed event: OrderCreatedEvent, order_id: 29, available_pickups: 97 , available_dropoffs: 292 , passenger_id: 29, route_id: 1, passenger_num: 2 id: 806
+Simulator::runFor: now_ = 1244 target = 1250
+[progress] simulator time = 1250 / 3600
+Simulator::runFor: now_ = 1250 target = 1260
+[progress] simulator time = 1260 / 3600
+Simulator::runFor: now_ = 1260 target = 1270
+[progress] simulator time = 1270 / 3600
+Simulator::runFor: now_ = 1270 target = 1280
+[progress] simulator time = 1280 / 3600
+Simulator::runFor: now_ = 1280 target = 1290
+[progress] simulator time = 1290 / 3600
+Simulator::runFor: now_ = 1290 target = 1300
+[progress] simulator time = 1300 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 30, route_id: 1 id: 29 at time: 1310
+Processed event: PassengerRouteStartEvent, passenger_id: 30, route_id: 1 id: 29
+processing event: OrderCreatedEvent, order_id: 30, available_pickups: 78 , available_dropoffs: 28 , passenger_id: 30, route_id: 1, passenger_num: 0 id: 807 at time: 1310
+Processed event: OrderCreatedEvent, order_id: 30, available_pickups: 78 , available_dropoffs: 28 , passenger_id: 30, route_id: 1, passenger_num: 1 id: 807
+Simulator::runFor: now_ = 1310 target = 1310
+[progress] simulator time = 1310 / 3600
+Simulator::runFor: now_ = 1310 target = 1320
+[progress] simulator time = 1320 / 3600
+Simulator::runFor: now_ = 1320 target = 1330
+[progress] simulator time = 1330 / 3600
+Simulator::runFor: now_ = 1330 target = 1340
+[progress] simulator time = 1340 / 3600
+Simulator::runFor: now_ = 1340 target = 1350
+[progress] simulator time = 1350 / 3600
+Simulator::runFor: now_ = 1350 target = 1360
+[progress] simulator time = 1360 / 3600
+Simulator::runFor: now_ = 1360 target = 1370
+[progress] simulator time = 1370 / 3600
+Simulator::runFor: now_ = 1370 target = 1380
+[progress] simulator time = 1380 / 3600
+Simulator::runFor: now_ = 1380 target = 1390
+[progress] simulator time = 1390 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 31, route_id: 1 id: 30 at time: 1396
+Processed event: PassengerRouteStartEvent, passenger_id: 31, route_id: 1 id: 30
+processing event: OrderCreatedEvent, order_id: 31, available_pickups: 156 , available_dropoffs: 64 , passenger_id: 31, route_id: 1, passenger_num: 0 id: 808 at time: 1396
+Processed event: OrderCreatedEvent, order_id: 31, available_pickups: 156 , available_dropoffs: 64 , passenger_id: 31, route_id: 1, passenger_num: 3 id: 808
+Simulator::runFor: now_ = 1396 target = 1400
+[progress] simulator time = 1400 / 3600
+Simulator::runFor: now_ = 1400 target = 1410
+[progress] simulator time = 1410 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 32, route_id: 1 id: 31 at time: 1415
+Processed event: PassengerRouteStartEvent, passenger_id: 32, route_id: 1 id: 31
+processing event: OrderCreatedEvent, order_id: 32, available_pickups: 201 , available_dropoffs: 30 , passenger_id: 32, route_id: 1, passenger_num: 0 id: 809 at time: 1415
+Processed event: OrderCreatedEvent, order_id: 32, available_pickups: 201 , available_dropoffs: 30 , passenger_id: 32, route_id: 1, passenger_num: 2 id: 809
+Simulator::runFor: now_ = 1415 target = 1420
+[progress] simulator time = 1420 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 33, route_id: 1 id: 32 at time: 1425
+Processed event: PassengerRouteStartEvent, passenger_id: 33, route_id: 1 id: 32
+processing event: OrderCreatedEvent, order_id: 33, available_pickups: 102 , available_dropoffs: 125 , passenger_id: 33, route_id: 1, passenger_num: 0 id: 810 at time: 1425
+Processed event: OrderCreatedEvent, order_id: 33, available_pickups: 102 , available_dropoffs: 125 , passenger_id: 33, route_id: 1, passenger_num: 2 id: 810
+Simulator::runFor: now_ = 1425 target = 1430
+[progress] simulator time = 1430 / 3600
+Simulator::runFor: now_ = 1430 target = 1440
+[progress] simulator time = 1440 / 3600
+Simulator::runFor: now_ = 1440 target = 1450
+[progress] simulator time = 1450 / 3600
+Simulator::runFor: now_ = 1450 target = 1460
+[progress] simulator time = 1460 / 3600
+Simulator::runFor: now_ = 1460 target = 1470
+[progress] simulator time = 1470 / 3600
+Simulator::runFor: now_ = 1470 target = 1480
+[progress] simulator time = 1480 / 3600
+Simulator::runFor: now_ = 1480 target = 1490
+[progress] simulator time = 1490 / 3600
+Simulator::runFor: now_ = 1490 target = 1500
+[progress] simulator time = 1500 / 3600
+Simulator::runFor: now_ = 1500 target = 1510
+[progress] simulator time = 1510 / 3600
+Simulator::runFor: now_ = 1510 target = 1520
+[progress] simulator time = 1520 / 3600
+Simulator::runFor: now_ = 1520 target = 1530
+[progress] simulator time = 1530 / 3600
+Simulator::runFor: now_ = 1530 target = 1540
+[progress] simulator time = 1540 / 3600
+Simulator::runFor: now_ = 1540 target = 1550
+[progress] simulator time = 1550 / 3600
+Simulator::runFor: now_ = 1550 target = 1560
+[progress] simulator time = 1560 / 3600
+Simulator::runFor: now_ = 1560 target = 1570
+[progress] simulator time = 1570 / 3600
+Simulator::runFor: now_ = 1570 target = 1580
+[progress] simulator time = 1580 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 34, route_id: 1 id: 33 at time: 1586
+Processed event: PassengerRouteStartEvent, passenger_id: 34, route_id: 1 id: 33
+processing event: OrderCreatedEvent, order_id: 34, available_pickups: 275 , available_dropoffs: 124 , passenger_id: 34, route_id: 1, passenger_num: 0 id: 811 at time: 1586
+Processed event: OrderCreatedEvent, order_id: 34, available_pickups: 275 , available_dropoffs: 124 , passenger_id: 34, route_id: 1, passenger_num: 2 id: 811
+Simulator::runFor: now_ = 1586 target = 1590
+[progress] simulator time = 1590 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 35, route_id: 1 id: 34 at time: 1594
+Processed event: PassengerRouteStartEvent, passenger_id: 35, route_id: 1 id: 34
+processing event: OrderCreatedEvent, order_id: 35, available_pickups: 120 , available_dropoffs: 294 , passenger_id: 35, route_id: 1, passenger_num: 0 id: 812 at time: 1594
+Processed event: OrderCreatedEvent, order_id: 35, available_pickups: 120 , available_dropoffs: 294 , passenger_id: 35, route_id: 1, passenger_num: 2 id: 812
+Simulator::runFor: now_ = 1594 target = 1600
+[progress] simulator time = 1600 / 3600
+Simulator::runFor: now_ = 1600 target = 1610
+[progress] simulator time = 1610 / 3600
+Simulator::runFor: now_ = 1610 target = 1620
+[progress] simulator time = 1620 / 3600
+Simulator::runFor: now_ = 1620 target = 1630
+[progress] simulator time = 1630 / 3600
+Simulator::runFor: now_ = 1630 target = 1640
+[progress] simulator time = 1640 / 3600
+Simulator::runFor: now_ = 1640 target = 1650
+[progress] simulator time = 1650 / 3600
+Simulator::runFor: now_ = 1650 target = 1660
+[progress] simulator time = 1660 / 3600
+Simulator::runFor: now_ = 1660 target = 1670
+[progress] simulator time = 1670 / 3600
+Simulator::runFor: now_ = 1670 target = 1680
+[progress] simulator time = 1680 / 3600
+Simulator::runFor: now_ = 1680 target = 1690
+[progress] simulator time = 1690 / 3600
+Simulator::runFor: now_ = 1690 target = 1700
+[progress] simulator time = 1700 / 3600
+Simulator::runFor: now_ = 1700 target = 1710
+[progress] simulator time = 1710 / 3600
+Simulator::runFor: now_ = 1710 target = 1720
+[progress] simulator time = 1720 / 3600
+Simulator::runFor: now_ = 1720 target = 1730
+[progress] simulator time = 1730 / 3600
+Simulator::runFor: now_ = 1730 target = 1740
+[progress] simulator time = 1740 / 3600
+Simulator::runFor: now_ = 1740 target = 1750
+[progress] simulator time = 1750 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 36, route_id: 1 id: 35 at time: 1754
+Processed event: PassengerRouteStartEvent, passenger_id: 36, route_id: 1 id: 35
+processing event: OrderCreatedEvent, order_id: 36, available_pickups: 15 , available_dropoffs: 113 , passenger_id: 36, route_id: 1, passenger_num: 0 id: 813 at time: 1754
+Processed event: OrderCreatedEvent, order_id: 36, available_pickups: 15 , available_dropoffs: 113 , passenger_id: 36, route_id: 1, passenger_num: 1 id: 813
+Simulator::runFor: now_ = 1754 target = 1760
+[progress] simulator time = 1760 / 3600
+Simulator::runFor: now_ = 1760 target = 1770
+[progress] simulator time = 1770 / 3600
+Simulator::runFor: now_ = 1770 target = 1780
+[progress] simulator time = 1780 / 3600
+Simulator::runFor: now_ = 1780 target = 1790
+[progress] simulator time = 1790 / 3600
+Simulator::runFor: now_ = 1790 target = 1800
+[progress] simulator time = 1800 / 3600
+Simulator::runFor: now_ = 1800 target = 1810
+[progress] simulator time = 1810 / 3600
+Simulator::runFor: now_ = 1810 target = 1820
+[progress] simulator time = 1820 / 3600
+Simulator::runFor: now_ = 1820 target = 1830
+[progress] simulator time = 1830 / 3600
+Simulator::runFor: now_ = 1830 target = 1840
+[progress] simulator time = 1840 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 37, route_id: 1 id: 36 at time: 1842
+Processed event: PassengerRouteStartEvent, passenger_id: 37, route_id: 1 id: 36
+processing event: OrderCreatedEvent, order_id: 37, available_pickups: 113 , available_dropoffs: 153 , passenger_id: 37, route_id: 1, passenger_num: 0 id: 814 at time: 1842
+Processed event: OrderCreatedEvent, order_id: 37, available_pickups: 113 , available_dropoffs: 153 , passenger_id: 37, route_id: 1, passenger_num: 1 id: 814
+Simulator::runFor: now_ = 1842 target = 1850
+[progress] simulator time = 1850 / 3600
+Simulator::runFor: now_ = 1850 target = 1860
+[progress] simulator time = 1860 / 3600
+Simulator::runFor: now_ = 1860 target = 1870
+[progress] simulator time = 1870 / 3600
+Simulator::runFor: now_ = 1870 target = 1880
+[progress] simulator time = 1880 / 3600
+Simulator::runFor: now_ = 1880 target = 1890
+[progress] simulator time = 1890 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 38, route_id: 1 id: 37 at time: 1891
+Processed event: PassengerRouteStartEvent, passenger_id: 38, route_id: 1 id: 37
+processing event: OrderCreatedEvent, order_id: 38, available_pickups: 151 , available_dropoffs: 286 , passenger_id: 38, route_id: 1, passenger_num: 0 id: 815 at time: 1891
+Processed event: OrderCreatedEvent, order_id: 38, available_pickups: 151 , available_dropoffs: 286 , passenger_id: 38, route_id: 1, passenger_num: 1 id: 815
+Simulator::runFor: now_ = 1891 target = 1900
+[progress] simulator time = 1900 / 3600
+Simulator::runFor: now_ = 1900 target = 1910
+[progress] simulator time = 1910 / 3600
+Simulator::runFor: now_ = 1910 target = 1920
+[progress] simulator time = 1920 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 39, route_id: 1 id: 38 at time: 1922
+Processed event: PassengerRouteStartEvent, passenger_id: 39, route_id: 1 id: 38
+processing event: OrderCreatedEvent, order_id: 39, available_pickups: 215 , available_dropoffs: 52 , passenger_id: 39, route_id: 1, passenger_num: 0 id: 816 at time: 1922
+Processed event: OrderCreatedEvent, order_id: 39, available_pickups: 215 , available_dropoffs: 52 , passenger_id: 39, route_id: 1, passenger_num: 3 id: 816
+Simulator::runFor: now_ = 1922 target = 1930
+[progress] simulator time = 1930 / 3600
+Simulator::runFor: now_ = 1930 target = 1940
+[progress] simulator time = 1940 / 3600
+Simulator::runFor: now_ = 1940 target = 1950
+[progress] simulator time = 1950 / 3600
+Simulator::runFor: now_ = 1950 target = 1960
+[progress] simulator time = 1960 / 3600
+Simulator::runFor: now_ = 1960 target = 1970
+[progress] simulator time = 1970 / 3600
+Simulator::runFor: now_ = 1970 target = 1980
+[progress] simulator time = 1980 / 3600
+Simulator::runFor: now_ = 1980 target = 1990
+[progress] simulator time = 1990 / 3600
+Simulator::runFor: now_ = 1990 target = 2000
+[progress] simulator time = 2000 / 3600
+Simulator::runFor: now_ = 2000 target = 2010
+[progress] simulator time = 2010 / 3600
+Simulator::runFor: now_ = 2010 target = 2020
+[progress] simulator time = 2020 / 3600
+Simulator::runFor: now_ = 2020 target = 2030
+[progress] simulator time = 2030 / 3600
+Simulator::runFor: now_ = 2030 target = 2040
+[progress] simulator time = 2040 / 3600
+Simulator::runFor: now_ = 2040 target = 2050
+[progress] simulator time = 2050 / 3600
+Simulator::runFor: now_ = 2050 target = 2060
+[progress] simulator time = 2060 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 40, route_id: 1 id: 39 at time: 2061
+Processed event: PassengerRouteStartEvent, passenger_id: 40, route_id: 1 id: 39
+processing event: OrderCreatedEvent, order_id: 40, available_pickups: 74 , available_dropoffs: 125 , passenger_id: 40, route_id: 1, passenger_num: 0 id: 817 at time: 2061
+Processed event: OrderCreatedEvent, order_id: 40, available_pickups: 74 , available_dropoffs: 125 , passenger_id: 40, route_id: 1, passenger_num: 3 id: 817
+processing event: PassengerRouteStartEvent, passenger_id: 41, route_id: 1 id: 40 at time: 2065
+Processed event: PassengerRouteStartEvent, passenger_id: 41, route_id: 1 id: 40
+processing event: OrderCreatedEvent, order_id: 41, available_pickups: 77 , available_dropoffs: 281 , passenger_id: 41, route_id: 1, passenger_num: 0 id: 818 at time: 2065
+Processed event: OrderCreatedEvent, order_id: 41, available_pickups: 77 , available_dropoffs: 281 , passenger_id: 41, route_id: 1, passenger_num: 3 id: 818
+Simulator::runFor: now_ = 2065 target = 2070
+[progress] simulator time = 2070 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 42, route_id: 1 id: 41 at time: 2079
+Processed event: PassengerRouteStartEvent, passenger_id: 42, route_id: 1 id: 41
+processing event: OrderCreatedEvent, order_id: 42, available_pickups: 270 , available_dropoffs: 52 , passenger_id: 42, route_id: 1, passenger_num: 0 id: 819 at time: 2079
+Processed event: OrderCreatedEvent, order_id: 42, available_pickups: 270 , available_dropoffs: 52 , passenger_id: 42, route_id: 1, passenger_num: 1 id: 819
+Simulator::runFor: now_ = 2079 target = 2080
+[progress] simulator time = 2080 / 3600
+Simulator::runFor: now_ = 2080 target = 2090
+[progress] simulator time = 2090 / 3600
+Simulator::runFor: now_ = 2090 target = 2100
+[progress] simulator time = 2100 / 3600
+Simulator::runFor: now_ = 2100 target = 2110
+[progress] simulator time = 2110 / 3600
+Simulator::runFor: now_ = 2110 target = 2120
+[progress] simulator time = 2120 / 3600
+Simulator::runFor: now_ = 2120 target = 2130
+[progress] simulator time = 2130 / 3600
+Simulator::runFor: now_ = 2130 target = 2140
+[progress] simulator time = 2140 / 3600
+Simulator::runFor: now_ = 2140 target = 2150
+[progress] simulator time = 2150 / 3600
+Simulator::runFor: now_ = 2150 target = 2160
+[progress] simulator time = 2160 / 3600
+Simulator::runFor: now_ = 2160 target = 2170
+[progress] simulator time = 2170 / 3600
+Simulator::runFor: now_ = 2170 target = 2180
+[progress] simulator time = 2180 / 3600
+Simulator::runFor: now_ = 2180 target = 2190
+[progress] simulator time = 2190 / 3600
+Simulator::runFor: now_ = 2190 target = 2200
+[progress] simulator time = 2200 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 43, route_id: 1 id: 42 at time: 2205
+Processed event: PassengerRouteStartEvent, passenger_id: 43, route_id: 1 id: 42
+processing event: OrderCreatedEvent, order_id: 43, available_pickups: 45 , available_dropoffs: 50 , passenger_id: 43, route_id: 1, passenger_num: 0 id: 820 at time: 2205
+Processed event: OrderCreatedEvent, order_id: 43, available_pickups: 45 , available_dropoffs: 50 , passenger_id: 43, route_id: 1, passenger_num: 3 id: 820
+processing event: PassengerRouteStartEvent, passenger_id: 44, route_id: 1 id: 43 at time: 2210
+Processed event: PassengerRouteStartEvent, passenger_id: 44, route_id: 1 id: 43
+processing event: OrderCreatedEvent, order_id: 44, available_pickups: 111 , available_dropoffs: 128 , passenger_id: 44, route_id: 1, passenger_num: 0 id: 821 at time: 2210
+Processed event: OrderCreatedEvent, order_id: 44, available_pickups: 111 , available_dropoffs: 128 , passenger_id: 44, route_id: 1, passenger_num: 2 id: 821
+Simulator::runFor: now_ = 2210 target = 2210
+[progress] simulator time = 2210 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 45, route_id: 1 id: 44 at time: 2214
+Processed event: PassengerRouteStartEvent, passenger_id: 45, route_id: 1 id: 44
+processing event: OrderCreatedEvent, order_id: 45, available_pickups: 281 , available_dropoffs: 273 , passenger_id: 45, route_id: 1, passenger_num: 0 id: 822 at time: 2214
+Processed event: OrderCreatedEvent, order_id: 45, available_pickups: 281 , available_dropoffs: 273 , passenger_id: 45, route_id: 1, passenger_num: 1 id: 822
+processing event: PassengerRouteStartEvent, passenger_id: 46, route_id: 1 id: 45 at time: 2217
+Processed event: PassengerRouteStartEvent, passenger_id: 46, route_id: 1 id: 45
+processing event: OrderCreatedEvent, order_id: 46, available_pickups: 63 , available_dropoffs: 62 , passenger_id: 46, route_id: 1, passenger_num: 0 id: 823 at time: 2217
+Processed event: OrderCreatedEvent, order_id: 46, available_pickups: 63 , available_dropoffs: 62 , passenger_id: 46, route_id: 1, passenger_num: 2 id: 823
+processing event: PassengerRouteStartEvent, passenger_id: 47, route_id: 1 id: 46 at time: 2220
+Processed event: PassengerRouteStartEvent, passenger_id: 47, route_id: 1 id: 46
+processing event: OrderCreatedEvent, order_id: 47, available_pickups: 1 , available_dropoffs: 103 , passenger_id: 47, route_id: 1, passenger_num: 0 id: 824 at time: 2220
+Processed event: OrderCreatedEvent, order_id: 47, available_pickups: 1 , available_dropoffs: 103 , passenger_id: 47, route_id: 1, passenger_num: 1 id: 824
+Simulator::runFor: now_ = 2220 target = 2220
+[progress] simulator time = 2220 / 3600
+Simulator::runFor: now_ = 2220 target = 2230
+[progress] simulator time = 2230 / 3600
+Simulator::runFor: now_ = 2230 target = 2240
+[progress] simulator time = 2240 / 3600
+Simulator::runFor: now_ = 2240 target = 2250
+[progress] simulator time = 2250 / 3600
+Simulator::runFor: now_ = 2250 target = 2260
+[progress] simulator time = 2260 / 3600
+Simulator::runFor: now_ = 2260 target = 2270
+[progress] simulator time = 2270 / 3600
+Simulator::runFor: now_ = 2270 target = 2280
+[progress] simulator time = 2280 / 3600
+Simulator::runFor: now_ = 2280 target = 2290
+[progress] simulator time = 2290 / 3600
+Simulator::runFor: now_ = 2290 target = 2300
+[progress] simulator time = 2300 / 3600
+Simulator::runFor: now_ = 2300 target = 2310
+[progress] simulator time = 2310 / 3600
+Simulator::runFor: now_ = 2310 target = 2320
+[progress] simulator time = 2320 / 3600
+Simulator::runFor: now_ = 2320 target = 2330
+[progress] simulator time = 2330 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 48, route_id: 1 id: 47 at time: 2332
+Processed event: PassengerRouteStartEvent, passenger_id: 48, route_id: 1 id: 47
+processing event: OrderCreatedEvent, order_id: 48, available_pickups: 134 , available_dropoffs: 175 , passenger_id: 48, route_id: 1, passenger_num: 0 id: 825 at time: 2332
+Processed event: OrderCreatedEvent, order_id: 48, available_pickups: 134 , available_dropoffs: 175 , passenger_id: 48, route_id: 1, passenger_num: 1 id: 825
+Simulator::runFor: now_ = 2332 target = 2340
+[progress] simulator time = 2340 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 49, route_id: 1 id: 48 at time: 2348
+Processed event: PassengerRouteStartEvent, passenger_id: 49, route_id: 1 id: 48
+processing event: OrderCreatedEvent, order_id: 49, available_pickups: 238 , available_dropoffs: 37 , passenger_id: 49, route_id: 1, passenger_num: 0 id: 826 at time: 2348
+Processed event: OrderCreatedEvent, order_id: 49, available_pickups: 238 , available_dropoffs: 37 , passenger_id: 49, route_id: 1, passenger_num: 1 id: 826
+Simulator::runFor: now_ = 2348 target = 2350
+[progress] simulator time = 2350 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 50, route_id: 1 id: 49 at time: 2355
+Processed event: PassengerRouteStartEvent, passenger_id: 50, route_id: 1 id: 49
+processing event: OrderCreatedEvent, order_id: 50, available_pickups: 182 , available_dropoffs: 269 , passenger_id: 50, route_id: 1, passenger_num: 0 id: 827 at time: 2355
+Processed event: OrderCreatedEvent, order_id: 50, available_pickups: 182 , available_dropoffs: 269 , passenger_id: 50, route_id: 1, passenger_num: 2 id: 827
+Simulator::runFor: now_ = 2355 target = 2360
+[progress] simulator time = 2360 / 3600
+Simulator::runFor: now_ = 2360 target = 2370
+[progress] simulator time = 2370 / 3600
+Simulator::runFor: now_ = 2370 target = 2380
+[progress] simulator time = 2380 / 3600
+Simulator::runFor: now_ = 2380 target = 2390
+[progress] simulator time = 2390 / 3600
+Simulator::runFor: now_ = 2390 target = 2400
+[progress] simulator time = 2400 / 3600
+Simulator::runFor: now_ = 2400 target = 2410
+[progress] simulator time = 2410 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 51, route_id: 1 id: 50 at time: 2412
+Processed event: PassengerRouteStartEvent, passenger_id: 51, route_id: 1 id: 50
+processing event: OrderCreatedEvent, order_id: 51, available_pickups: 236 , available_dropoffs: 264 , passenger_id: 51, route_id: 1, passenger_num: 0 id: 828 at time: 2412
+Processed event: OrderCreatedEvent, order_id: 51, available_pickups: 236 , available_dropoffs: 264 , passenger_id: 51, route_id: 1, passenger_num: 1 id: 828
+Simulator::runFor: now_ = 2412 target = 2420
+[progress] simulator time = 2420 / 3600
+Simulator::runFor: now_ = 2420 target = 2430
+[progress] simulator time = 2430 / 3600
+Simulator::runFor: now_ = 2430 target = 2440
+[progress] simulator time = 2440 / 3600
+Simulator::runFor: now_ = 2440 target = 2450
+[progress] simulator time = 2450 / 3600
+Simulator::runFor: now_ = 2450 target = 2460
+[progress] simulator time = 2460 / 3600
+Simulator::runFor: now_ = 2460 target = 2470
+[progress] simulator time = 2470 / 3600
+Simulator::runFor: now_ = 2470 target = 2480
+[progress] simulator time = 2480 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 52, route_id: 1 id: 51 at time: 2481
+Processed event: PassengerRouteStartEvent, passenger_id: 52, route_id: 1 id: 51
+processing event: OrderCreatedEvent, order_id: 52, available_pickups: 272 , available_dropoffs: 268 , passenger_id: 52, route_id: 1, passenger_num: 0 id: 829 at time: 2481
+Processed event: OrderCreatedEvent, order_id: 52, available_pickups: 272 , available_dropoffs: 268 , passenger_id: 52, route_id: 1, passenger_num: 3 id: 829
+Simulator::runFor: now_ = 2481 target = 2490
+[progress] simulator time = 2490 / 3600
+Simulator::runFor: now_ = 2490 target = 2500
+[progress] simulator time = 2500 / 3600
+Simulator::runFor: now_ = 2500 target = 2510
+[progress] simulator time = 2510 / 3600
+Simulator::runFor: now_ = 2510 target = 2520
+[progress] simulator time = 2520 / 3600
+Simulator::runFor: now_ = 2520 target = 2530
+[progress] simulator time = 2530 / 3600
+Simulator::runFor: now_ = 2530 target = 2540
+[progress] simulator time = 2540 / 3600
+Simulator::runFor: now_ = 2540 target = 2550
+[progress] simulator time = 2550 / 3600
+Simulator::runFor: now_ = 2550 target = 2560
+[progress] simulator time = 2560 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 53, route_id: 1 id: 52 at time: 2568
+Processed event: PassengerRouteStartEvent, passenger_id: 53, route_id: 1 id: 52
+processing event: OrderCreatedEvent, order_id: 53, available_pickups: 70 , available_dropoffs: 104 , passenger_id: 53, route_id: 1, passenger_num: 0 id: 830 at time: 2568
+Processed event: OrderCreatedEvent, order_id: 53, available_pickups: 70 , available_dropoffs: 104 , passenger_id: 53, route_id: 1, passenger_num: 2 id: 830
+Simulator::runFor: now_ = 2568 target = 2570
+[progress] simulator time = 2570 / 3600
+Simulator::runFor: now_ = 2570 target = 2580
+[progress] simulator time = 2580 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 54, route_id: 1 id: 53 at time: 2587
+Processed event: PassengerRouteStartEvent, passenger_id: 54, route_id: 1 id: 53
+processing event: OrderCreatedEvent, order_id: 54, available_pickups: 24 , available_dropoffs: 295 , passenger_id: 54, route_id: 1, passenger_num: 0 id: 831 at time: 2587
+Processed event: OrderCreatedEvent, order_id: 54, available_pickups: 24 , available_dropoffs: 295 , passenger_id: 54, route_id: 1, passenger_num: 1 id: 831
+Simulator::runFor: now_ = 2587 target = 2590
+[progress] simulator time = 2590 / 3600
+Simulator::runFor: now_ = 2590 target = 2600
+[progress] simulator time = 2600 / 3600
+Simulator::runFor: now_ = 2600 target = 2610
+[progress] simulator time = 2610 / 3600
+Simulator::runFor: now_ = 2610 target = 2620
+[progress] simulator time = 2620 / 3600
+Simulator::runFor: now_ = 2620 target = 2630
+[progress] simulator time = 2630 / 3600
+Simulator::runFor: now_ = 2630 target = 2640
+[progress] simulator time = 2640 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 55, route_id: 1 id: 54 at time: 2644
+Processed event: PassengerRouteStartEvent, passenger_id: 55, route_id: 1 id: 54
+processing event: OrderCreatedEvent, order_id: 55, available_pickups: 246 , available_dropoffs: 251 , passenger_id: 55, route_id: 1, passenger_num: 0 id: 832 at time: 2644
+Processed event: OrderCreatedEvent, order_id: 55, available_pickups: 246 , available_dropoffs: 251 , passenger_id: 55, route_id: 1, passenger_num: 1 id: 832
+Simulator::runFor: now_ = 2644 target = 2650
+[progress] simulator time = 2650 / 3600
+Simulator::runFor: now_ = 2650 target = 2660
+[progress] simulator time = 2660 / 3600
+Simulator::runFor: now_ = 2660 target = 2670
+[progress] simulator time = 2670 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 56, route_id: 1 id: 55 at time: 2679
+Processed event: PassengerRouteStartEvent, passenger_id: 56, route_id: 1 id: 55
+processing event: OrderCreatedEvent, order_id: 56, available_pickups: 85 , available_dropoffs: 191 , passenger_id: 56, route_id: 1, passenger_num: 0 id: 833 at time: 2679
+Processed event: OrderCreatedEvent, order_id: 56, available_pickups: 85 , available_dropoffs: 191 , passenger_id: 56, route_id: 1, passenger_num: 3 id: 833
+Simulator::runFor: now_ = 2679 target = 2680
+[progress] simulator time = 2680 / 3600
+Simulator::runFor: now_ = 2680 target = 2690
+[progress] simulator time = 2690 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 57, route_id: 1 id: 56 at time: 2694
+Processed event: PassengerRouteStartEvent, passenger_id: 57, route_id: 1 id: 56
+processing event: OrderCreatedEvent, order_id: 57, available_pickups: 265 , available_dropoffs: 229 , passenger_id: 57, route_id: 1, passenger_num: 0 id: 834 at time: 2694
+Processed event: OrderCreatedEvent, order_id: 57, available_pickups: 265 , available_dropoffs: 229 , passenger_id: 57, route_id: 1, passenger_num: 2 id: 834
+Simulator::runFor: now_ = 2694 target = 2700
+[progress] simulator time = 2700 / 3600
+Simulator::runFor: now_ = 2700 target = 2710
+[progress] simulator time = 2710 / 3600
+Simulator::runFor: now_ = 2710 target = 2720
+[progress] simulator time = 2720 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 58, route_id: 1 id: 57 at time: 2728
+Processed event: PassengerRouteStartEvent, passenger_id: 58, route_id: 1 id: 57
+processing event: OrderCreatedEvent, order_id: 58, available_pickups: 108 , available_dropoffs: 72 , passenger_id: 58, route_id: 1, passenger_num: 0 id: 835 at time: 2728
+Processed event: OrderCreatedEvent, order_id: 58, available_pickups: 108 , available_dropoffs: 72 , passenger_id: 58, route_id: 1, passenger_num: 2 id: 835
+Simulator::runFor: now_ = 2728 target = 2730
+[progress] simulator time = 2730 / 3600
+Simulator::runFor: now_ = 2730 target = 2740
+[progress] simulator time = 2740 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 59, route_id: 1 id: 58 at time: 2749
+Processed event: PassengerRouteStartEvent, passenger_id: 59, route_id: 1 id: 58
+processing event: OrderCreatedEvent, order_id: 59, available_pickups: 4 , available_dropoffs: 247 , passenger_id: 59, route_id: 1, passenger_num: 0 id: 836 at time: 2749
+Processed event: OrderCreatedEvent, order_id: 59, available_pickups: 4 , available_dropoffs: 247 , passenger_id: 59, route_id: 1, passenger_num: 2 id: 836
+Simulator::runFor: now_ = 2749 target = 2750
+[progress] simulator time = 2750 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 60, route_id: 1 id: 59 at time: 2756
+Processed event: PassengerRouteStartEvent, passenger_id: 60, route_id: 1 id: 59
+processing event: OrderCreatedEvent, order_id: 60, available_pickups: 215 , available_dropoffs: 134 , passenger_id: 60, route_id: 1, passenger_num: 0 id: 837 at time: 2756
+Processed event: OrderCreatedEvent, order_id: 60, available_pickups: 215 , available_dropoffs: 134 , passenger_id: 60, route_id: 1, passenger_num: 3 id: 837
+Simulator::runFor: now_ = 2756 target = 2760
+[progress] simulator time = 2760 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 61, route_id: 1 id: 60 at time: 2770
+Processed event: PassengerRouteStartEvent, passenger_id: 61, route_id: 1 id: 60
+processing event: OrderCreatedEvent, order_id: 61, available_pickups: 230 , available_dropoffs: 17 , passenger_id: 61, route_id: 1, passenger_num: 0 id: 838 at time: 2770
+Processed event: OrderCreatedEvent, order_id: 61, available_pickups: 230 , available_dropoffs: 17 , passenger_id: 61, route_id: 1, passenger_num: 3 id: 838
+Simulator::runFor: now_ = 2770 target = 2770
+[progress] simulator time = 2770 / 3600
+Simulator::runFor: now_ = 2770 target = 2780
+[progress] simulator time = 2780 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 62, route_id: 1 id: 61 at time: 2790
+Processed event: PassengerRouteStartEvent, passenger_id: 62, route_id: 1 id: 61
+processing event: OrderCreatedEvent, order_id: 62, available_pickups: 263 , available_dropoffs: 285 , passenger_id: 62, route_id: 1, passenger_num: 0 id: 839 at time: 2790
+Processed event: OrderCreatedEvent, order_id: 62, available_pickups: 263 , available_dropoffs: 285 , passenger_id: 62, route_id: 1, passenger_num: 1 id: 839
+Simulator::runFor: now_ = 2790 target = 2790
+[progress] simulator time = 2790 / 3600
+Simulator::runFor: now_ = 2790 target = 2800
+[progress] simulator time = 2800 / 3600
+Simulator::runFor: now_ = 2800 target = 2810
+[progress] simulator time = 2810 / 3600
+Simulator::runFor: now_ = 2810 target = 2820
+[progress] simulator time = 2820 / 3600
+Simulator::runFor: now_ = 2820 target = 2830
+[progress] simulator time = 2830 / 3600
+Simulator::runFor: now_ = 2830 target = 2840
+[progress] simulator time = 2840 / 3600
+Simulator::runFor: now_ = 2840 target = 2850
+[progress] simulator time = 2850 / 3600
+Simulator::runFor: now_ = 2850 target = 2860
+[progress] simulator time = 2860 / 3600
+Simulator::runFor: now_ = 2860 target = 2870
+[progress] simulator time = 2870 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 63, route_id: 1 id: 62 at time: 2874
+Processed event: PassengerRouteStartEvent, passenger_id: 63, route_id: 1 id: 62
+processing event: OrderCreatedEvent, order_id: 63, available_pickups: 269 , available_dropoffs: 112 , passenger_id: 63, route_id: 1, passenger_num: 0 id: 840 at time: 2874
+Processed event: OrderCreatedEvent, order_id: 63, available_pickups: 269 , available_dropoffs: 112 , passenger_id: 63, route_id: 1, passenger_num: 1 id: 840
+Simulator::runFor: now_ = 2874 target = 2880
+[progress] simulator time = 2880 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 64, route_id: 1 id: 63 at time: 2886
+Processed event: PassengerRouteStartEvent, passenger_id: 64, route_id: 1 id: 63
+processing event: OrderCreatedEvent, order_id: 64, available_pickups: 256 , available_dropoffs: 263 , passenger_id: 64, route_id: 1, passenger_num: 0 id: 841 at time: 2886
+Processed event: OrderCreatedEvent, order_id: 64, available_pickups: 256 , available_dropoffs: 263 , passenger_id: 64, route_id: 1, passenger_num: 3 id: 841
+Simulator::runFor: now_ = 2886 target = 2890
+[progress] simulator time = 2890 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 65, route_id: 1 id: 64 at time: 2896
+Processed event: PassengerRouteStartEvent, passenger_id: 65, route_id: 1 id: 64
+processing event: OrderCreatedEvent, order_id: 65, available_pickups: 240 , available_dropoffs: 280 , passenger_id: 65, route_id: 1, passenger_num: 0 id: 842 at time: 2896
+Processed event: OrderCreatedEvent, order_id: 65, available_pickups: 240 , available_dropoffs: 280 , passenger_id: 65, route_id: 1, passenger_num: 1 id: 842
+processing event: PassengerRouteStartEvent, passenger_id: 66, route_id: 1 id: 65 at time: 2897
+Processed event: PassengerRouteStartEvent, passenger_id: 66, route_id: 1 id: 65
+processing event: OrderCreatedEvent, order_id: 66, available_pickups: 24 , available_dropoffs: 99 , passenger_id: 66, route_id: 1, passenger_num: 0 id: 843 at time: 2897
+Processed event: OrderCreatedEvent, order_id: 66, available_pickups: 24 , available_dropoffs: 99 , passenger_id: 66, route_id: 1, passenger_num: 1 id: 843
+Simulator::runFor: now_ = 2897 target = 2900
+[progress] simulator time = 2900 / 3600
+Simulator::runFor: now_ = 2900 target = 2910
+[progress] simulator time = 2910 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 67, route_id: 1 id: 66 at time: 2913
+Processed event: PassengerRouteStartEvent, passenger_id: 67, route_id: 1 id: 66
+processing event: OrderCreatedEvent, order_id: 67, available_pickups: 37 , available_dropoffs: 210 , passenger_id: 67, route_id: 1, passenger_num: 0 id: 844 at time: 2913
+Processed event: OrderCreatedEvent, order_id: 67, available_pickups: 37 , available_dropoffs: 210 , passenger_id: 67, route_id: 1, passenger_num: 1 id: 844
+processing event: PassengerRouteStartEvent, passenger_id: 68, route_id: 1 id: 67 at time: 2915
+Processed event: PassengerRouteStartEvent, passenger_id: 68, route_id: 1 id: 67
+processing event: OrderCreatedEvent, order_id: 68, available_pickups: 111 , available_dropoffs: 72 , passenger_id: 68, route_id: 1, passenger_num: 0 id: 845 at time: 2915
+Processed event: OrderCreatedEvent, order_id: 68, available_pickups: 111 , available_dropoffs: 72 , passenger_id: 68, route_id: 1, passenger_num: 1 id: 845
+Simulator::runFor: now_ = 2915 target = 2920
+[progress] simulator time = 2920 / 3600
+Simulator::runFor: now_ = 2920 target = 2930
+[progress] simulator time = 2930 / 3600
+Simulator::runFor: now_ = 2930 target = 2940
+[progress] simulator time = 2940 / 3600
+Simulator::runFor: now_ = 2940 target = 2950
+[progress] simulator time = 2950 / 3600
+Simulator::runFor: now_ = 2950 target = 2960
+[progress] simulator time = 2960 / 3600
+Simulator::runFor: now_ = 2960 target = 2970
+[progress] simulator time = 2970 / 3600
+Simulator::runFor: now_ = 2970 target = 2980
+[progress] simulator time = 2980 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 69, route_id: 1 id: 68 at time: 2982
+Processed event: PassengerRouteStartEvent, passenger_id: 69, route_id: 1 id: 68
+processing event: OrderCreatedEvent, order_id: 69, available_pickups: 205 , available_dropoffs: 216 , passenger_id: 69, route_id: 1, passenger_num: 0 id: 846 at time: 2982
+Processed event: OrderCreatedEvent, order_id: 69, available_pickups: 205 , available_dropoffs: 216 , passenger_id: 69, route_id: 1, passenger_num: 2 id: 846
+Simulator::runFor: now_ = 2982 target = 2990
+[progress] simulator time = 2990 / 3600
+Simulator::runFor: now_ = 2990 target = 3000
+[progress] simulator time = 3000 / 3600
+Simulator::runFor: now_ = 3000 target = 3010
+[progress] simulator time = 3010 / 3600
+Simulator::runFor: now_ = 3010 target = 3020
+[progress] simulator time = 3020 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 70, route_id: 1 id: 69 at time: 3029
+Processed event: PassengerRouteStartEvent, passenger_id: 70, route_id: 1 id: 69
+processing event: OrderCreatedEvent, order_id: 70, available_pickups: 130 , available_dropoffs: 124 , passenger_id: 70, route_id: 1, passenger_num: 0 id: 847 at time: 3029
+Processed event: OrderCreatedEvent, order_id: 70, available_pickups: 130 , available_dropoffs: 124 , passenger_id: 70, route_id: 1, passenger_num: 1 id: 847
+Simulator::runFor: now_ = 3029 target = 3030
+[progress] simulator time = 3030 / 3600
+Simulator::runFor: now_ = 3030 target = 3040
+[progress] simulator time = 3040 / 3600
+Simulator::runFor: now_ = 3040 target = 3050
+[progress] simulator time = 3050 / 3600
+Simulator::runFor: now_ = 3050 target = 3060
+[progress] simulator time = 3060 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 71, route_id: 1 id: 70 at time: 3069
+Processed event: PassengerRouteStartEvent, passenger_id: 71, route_id: 1 id: 70
+processing event: OrderCreatedEvent, order_id: 71, available_pickups: 127 , available_dropoffs: 267 , passenger_id: 71, route_id: 1, passenger_num: 0 id: 848 at time: 3069
+Processed event: OrderCreatedEvent, order_id: 71, available_pickups: 127 , available_dropoffs: 267 , passenger_id: 71, route_id: 1, passenger_num: 1 id: 848
+Simulator::runFor: now_ = 3069 target = 3070
+[progress] simulator time = 3070 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 72, route_id: 1 id: 71 at time: 3077
+Processed event: PassengerRouteStartEvent, passenger_id: 72, route_id: 1 id: 71
+processing event: OrderCreatedEvent, order_id: 72, available_pickups: 81 , available_dropoffs: 198 , passenger_id: 72, route_id: 1, passenger_num: 0 id: 849 at time: 3077
+Processed event: OrderCreatedEvent, order_id: 72, available_pickups: 81 , available_dropoffs: 198 , passenger_id: 72, route_id: 1, passenger_num: 2 id: 849
+Simulator::runFor: now_ = 3077 target = 3080
+[progress] simulator time = 3080 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 73, route_id: 1 id: 72 at time: 3088
+Processed event: PassengerRouteStartEvent, passenger_id: 73, route_id: 1 id: 72
+processing event: OrderCreatedEvent, order_id: 73, available_pickups: 128 , available_dropoffs: 190 , passenger_id: 73, route_id: 1, passenger_num: 0 id: 850 at time: 3088
+Processed event: OrderCreatedEvent, order_id: 73, available_pickups: 128 , available_dropoffs: 190 , passenger_id: 73, route_id: 1, passenger_num: 1 id: 850
+Simulator::runFor: now_ = 3088 target = 3090
+[progress] simulator time = 3090 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 74, route_id: 1 id: 73 at time: 3096
+Processed event: PassengerRouteStartEvent, passenger_id: 74, route_id: 1 id: 73
+processing event: OrderCreatedEvent, order_id: 74, available_pickups: 92 , available_dropoffs: 206 , passenger_id: 74, route_id: 1, passenger_num: 0 id: 851 at time: 3096
+Processed event: OrderCreatedEvent, order_id: 74, available_pickups: 92 , available_dropoffs: 206 , passenger_id: 74, route_id: 1, passenger_num: 3 id: 851
+Simulator::runFor: now_ = 3096 target = 3100
+[progress] simulator time = 3100 / 3600
+Simulator::runFor: now_ = 3100 target = 3110
+[progress] simulator time = 3110 / 3600
+Simulator::runFor: now_ = 3110 target = 3120
+[progress] simulator time = 3120 / 3600
+Simulator::runFor: now_ = 3120 target = 3130
+[progress] simulator time = 3130 / 3600
+Simulator::runFor: now_ = 3130 target = 3140
+[progress] simulator time = 3140 / 3600
+Simulator::runFor: now_ = 3140 target = 3150
+[progress] simulator time = 3150 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 75, route_id: 1 id: 74 at time: 3158
+Processed event: PassengerRouteStartEvent, passenger_id: 75, route_id: 1 id: 74
+processing event: OrderCreatedEvent, order_id: 75, available_pickups: 251 , available_dropoffs: 44 , passenger_id: 75, route_id: 1, passenger_num: 0 id: 852 at time: 3158
+Processed event: OrderCreatedEvent, order_id: 75, available_pickups: 251 , available_dropoffs: 44 , passenger_id: 75, route_id: 1, passenger_num: 1 id: 852
+Simulator::runFor: now_ = 3158 target = 3160
+[progress] simulator time = 3160 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 76, route_id: 1 id: 75 at time: 3161
+Processed event: PassengerRouteStartEvent, passenger_id: 76, route_id: 1 id: 75
+processing event: OrderCreatedEvent, order_id: 76, available_pickups: 36 , available_dropoffs: 192 , passenger_id: 76, route_id: 1, passenger_num: 0 id: 853 at time: 3161
+Processed event: OrderCreatedEvent, order_id: 76, available_pickups: 36 , available_dropoffs: 192 , passenger_id: 76, route_id: 1, passenger_num: 2 id: 853
+Simulator::runFor: now_ = 3161 target = 3170
+[progress] simulator time = 3170 / 3600
+Simulator::runFor: now_ = 3170 target = 3180
+[progress] simulator time = 3180 / 3600
+Simulator::runFor: now_ = 3180 target = 3190
+[progress] simulator time = 3190 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 77, route_id: 1 id: 76 at time: 3194
+Processed event: PassengerRouteStartEvent, passenger_id: 77, route_id: 1 id: 76
+processing event: OrderCreatedEvent, order_id: 77, available_pickups: 249 , available_dropoffs: 158 , passenger_id: 77, route_id: 1, passenger_num: 0 id: 854 at time: 3194
+Processed event: OrderCreatedEvent, order_id: 77, available_pickups: 249 , available_dropoffs: 158 , passenger_id: 77, route_id: 1, passenger_num: 1 id: 854
+processing event: PassengerRouteStartEvent, passenger_id: 78, route_id: 1 id: 77 at time: 3195
+Processed event: PassengerRouteStartEvent, passenger_id: 78, route_id: 1 id: 77
+processing event: OrderCreatedEvent, order_id: 78, available_pickups: 114 , available_dropoffs: 283 , passenger_id: 78, route_id: 1, passenger_num: 0 id: 855 at time: 3195
+Processed event: OrderCreatedEvent, order_id: 78, available_pickups: 114 , available_dropoffs: 283 , passenger_id: 78, route_id: 1, passenger_num: 2 id: 855
+Simulator::runFor: now_ = 3195 target = 3200
+[progress] simulator time = 3200 / 3600
+Simulator::runFor: now_ = 3200 target = 3210
+[progress] simulator time = 3210 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 79, route_id: 1 id: 78 at time: 3219
+Processed event: PassengerRouteStartEvent, passenger_id: 79, route_id: 1 id: 78
+processing event: OrderCreatedEvent, order_id: 79, available_pickups: 88 , available_dropoffs: 186 , passenger_id: 79, route_id: 1, passenger_num: 0 id: 856 at time: 3219
+Processed event: OrderCreatedEvent, order_id: 79, available_pickups: 88 , available_dropoffs: 186 , passenger_id: 79, route_id: 1, passenger_num: 2 id: 856
+Simulator::runFor: now_ = 3219 target = 3220
+[progress] simulator time = 3220 / 3600
+Simulator::runFor: now_ = 3220 target = 3230
+[progress] simulator time = 3230 / 3600
+Simulator::runFor: now_ = 3230 target = 3240
+[progress] simulator time = 3240 / 3600
+Simulator::runFor: now_ = 3240 target = 3250
+[progress] simulator time = 3250 / 3600
+Simulator::runFor: now_ = 3250 target = 3260
+[progress] simulator time = 3260 / 3600
+Simulator::runFor: now_ = 3260 target = 3270
+[progress] simulator time = 3270 / 3600
+Simulator::runFor: now_ = 3270 target = 3280
+[progress] simulator time = 3280 / 3600
+Simulator::runFor: now_ = 3280 target = 3290
+[progress] simulator time = 3290 / 3600
+Simulator::runFor: now_ = 3290 target = 3300
+[progress] simulator time = 3300 / 3600
+Simulator::runFor: now_ = 3300 target = 3310
+[progress] simulator time = 3310 / 3600
+Simulator::runFor: now_ = 3310 target = 3320
+[progress] simulator time = 3320 / 3600
+Simulator::runFor: now_ = 3320 target = 3330
+[progress] simulator time = 3330 / 3600
+Simulator::runFor: now_ = 3330 target = 3340
+[progress] simulator time = 3340 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 80, route_id: 1 id: 79 at time: 3341
+Processed event: PassengerRouteStartEvent, passenger_id: 80, route_id: 1 id: 79
+processing event: OrderCreatedEvent, order_id: 80, available_pickups: 28 , available_dropoffs: 130 , passenger_id: 80, route_id: 1, passenger_num: 0 id: 857 at time: 3341
+Processed event: OrderCreatedEvent, order_id: 80, available_pickups: 28 , available_dropoffs: 130 , passenger_id: 80, route_id: 1, passenger_num: 3 id: 857
+processing event: PassengerRouteStartEvent, passenger_id: 81, route_id: 1 id: 80 at time: 3344
+Processed event: PassengerRouteStartEvent, passenger_id: 81, route_id: 1 id: 80
+processing event: OrderCreatedEvent, order_id: 81, available_pickups: 6 , available_dropoffs: 103 , passenger_id: 81, route_id: 1, passenger_num: 0 id: 858 at time: 3344
+Processed event: OrderCreatedEvent, order_id: 81, available_pickups: 6 , available_dropoffs: 103 , passenger_id: 81, route_id: 1, passenger_num: 1 id: 858
+Simulator::runFor: now_ = 3344 target = 3350
+[progress] simulator time = 3350 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 82, route_id: 1 id: 81 at time: 3357
+Processed event: PassengerRouteStartEvent, passenger_id: 82, route_id: 1 id: 81
+processing event: OrderCreatedEvent, order_id: 82, available_pickups: 145 , available_dropoffs: 136 , passenger_id: 82, route_id: 1, passenger_num: 0 id: 859 at time: 3357
+Processed event: OrderCreatedEvent, order_id: 82, available_pickups: 145 , available_dropoffs: 136 , passenger_id: 82, route_id: 1, passenger_num: 1 id: 859
+Simulator::runFor: now_ = 3357 target = 3360
+[progress] simulator time = 3360 / 3600
+Simulator::runFor: now_ = 3360 target = 3370
+[progress] simulator time = 3370 / 3600
+Simulator::runFor: now_ = 3370 target = 3380
+[progress] simulator time = 3380 / 3600
+Simulator::runFor: now_ = 3380 target = 3390
+[progress] simulator time = 3390 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 83, route_id: 1 id: 82 at time: 3392
+Processed event: PassengerRouteStartEvent, passenger_id: 83, route_id: 1 id: 82
+processing event: OrderCreatedEvent, order_id: 83, available_pickups: 223 , available_dropoffs: 199 , passenger_id: 83, route_id: 1, passenger_num: 0 id: 860 at time: 3392
+Processed event: OrderCreatedEvent, order_id: 83, available_pickups: 223 , available_dropoffs: 199 , passenger_id: 83, route_id: 1, passenger_num: 2 id: 860
+Simulator::runFor: now_ = 3392 target = 3400
+[progress] simulator time = 3400 / 3600
+Simulator::runFor: now_ = 3400 target = 3410
+[progress] simulator time = 3410 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 84, route_id: 1 id: 83 at time: 3412
+Processed event: PassengerRouteStartEvent, passenger_id: 84, route_id: 1 id: 83
+processing event: OrderCreatedEvent, order_id: 84, available_pickups: 223 , available_dropoffs: 65 , passenger_id: 84, route_id: 1, passenger_num: 0 id: 861 at time: 3412
+Processed event: OrderCreatedEvent, order_id: 84, available_pickups: 223 , available_dropoffs: 65 , passenger_id: 84, route_id: 1, passenger_num: 3 id: 861
+Simulator::runFor: now_ = 3412 target = 3420
+[progress] simulator time = 3420 / 3600
+Simulator::runFor: now_ = 3420 target = 3430
+[progress] simulator time = 3430 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 85, route_id: 1 id: 84 at time: 3433
+Processed event: PassengerRouteStartEvent, passenger_id: 85, route_id: 1 id: 84
+processing event: OrderCreatedEvent, order_id: 85, available_pickups: 11 , available_dropoffs: 143 , passenger_id: 85, route_id: 1, passenger_num: 0 id: 862 at time: 3433
+Processed event: OrderCreatedEvent, order_id: 85, available_pickups: 11 , available_dropoffs: 143 , passenger_id: 85, route_id: 1, passenger_num: 1 id: 862
+Simulator::runFor: now_ = 3433 target = 3440
+[progress] simulator time = 3440 / 3600
+Simulator::runFor: now_ = 3440 target = 3450
+[progress] simulator time = 3450 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 86, route_id: 1 id: 85 at time: 3451
+Processed event: PassengerRouteStartEvent, passenger_id: 86, route_id: 1 id: 85
+processing event: OrderCreatedEvent, order_id: 86, available_pickups: 236 , available_dropoffs: 104 , passenger_id: 86, route_id: 1, passenger_num: 0 id: 863 at time: 3451
+Processed event: OrderCreatedEvent, order_id: 86, available_pickups: 236 , available_dropoffs: 104 , passenger_id: 86, route_id: 1, passenger_num: 2 id: 863
+Simulator::runFor: now_ = 3451 target = 3460
+[progress] simulator time = 3460 / 3600
+Simulator::runFor: now_ = 3460 target = 3470
+[progress] simulator time = 3470 / 3600
+Simulator::runFor: now_ = 3470 target = 3480
+[progress] simulator time = 3480 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 87, route_id: 1 id: 86 at time: 3482
+Processed event: PassengerRouteStartEvent, passenger_id: 87, route_id: 1 id: 86
+processing event: OrderCreatedEvent, order_id: 87, available_pickups: 91 , available_dropoffs: 294 , passenger_id: 87, route_id: 1, passenger_num: 0 id: 864 at time: 3482
+Processed event: OrderCreatedEvent, order_id: 87, available_pickups: 91 , available_dropoffs: 294 , passenger_id: 87, route_id: 1, passenger_num: 3 id: 864
+Simulator::runFor: now_ = 3482 target = 3490
+[progress] simulator time = 3490 / 3600
+Simulator::runFor: now_ = 3490 target = 3500
+[progress] simulator time = 3500 / 3600
+Simulator::runFor: now_ = 3500 target = 3510
+[progress] simulator time = 3510 / 3600
+Simulator::runFor: now_ = 3510 target = 3520
+[progress] simulator time = 3520 / 3600
+Simulator::runFor: now_ = 3520 target = 3530
+[progress] simulator time = 3530 / 3600
+Simulator::runFor: now_ = 3530 target = 3540
+[progress] simulator time = 3540 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 88, route_id: 1 id: 87 at time: 3543
+Processed event: PassengerRouteStartEvent, passenger_id: 88, route_id: 1 id: 87
+processing event: OrderCreatedEvent, order_id: 88, available_pickups: 244 , available_dropoffs: 84 , passenger_id: 88, route_id: 1, passenger_num: 0 id: 865 at time: 3543
+Processed event: OrderCreatedEvent, order_id: 88, available_pickups: 244 , available_dropoffs: 84 , passenger_id: 88, route_id: 1, passenger_num: 2 id: 865
+Simulator::runFor: now_ = 3543 target = 3550
+[progress] simulator time = 3550 / 3600
+processing event: PassengerRouteStartEvent, passenger_id: 89, route_id: 1 id: 88 at time: 3551
+Processed event: PassengerRouteStartEvent, passenger_id: 89, route_id: 1 id: 88
+processing event: OrderCreatedEvent, order_id: 89, available_pickups: 57 , available_dropoffs: 196 , passenger_id: 89, route_id: 1, passenger_num: 0 id: 866 at time: 3551
+Processed event: OrderCreatedEvent, order_id: 89, available_pickups: 57 , available_dropoffs: 196 , passenger_id: 89, route_id: 1, passenger_num: 3 id: 866
+Simulator::runFor: now_ = 3551 target = 3560
+[progress] simulator time = 3560 / 3600
+Simulator::runFor: now_ = 3560 target = 3570
+[progress] simulator time = 3570 / 3600
+Simulator::runFor: now_ = 3570 target = 3580
+[progress] simulator time = 3580 / 3600
+Simulator::runFor: now_ = 3580 target = 3590
+[progress] simulator time = 3590 / 3600
+Simulator::runFor: now_ = 3590 target = 3600
+[progress] simulator time = 3600 / 3600 (done)
+Running time: 9215ms
+Metrics collection produced 778 passenger records. Provide --metrics_output=path to write results.
